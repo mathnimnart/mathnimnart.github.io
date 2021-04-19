@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Research interest"
+title: "Research interests"
 permalink: /research/
 author_profile: true
-header:
-  og_image: "research/ecdf.png"
+
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
