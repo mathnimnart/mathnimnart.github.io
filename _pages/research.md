@@ -22,12 +22,9 @@ What are the current and future threatening processes impacting biodiversity? Wh
 Based on the different outputs from patterns of biodiversity and/or threatening processes, I am also interested to highlight conservation value of particular areas for improving systematic conservation planning.
 
 **Publications:**
-
-Leclerc et al. (2020). Nat. Commun. 11: 4943. | [pdf](https://www.nature.com/articles/s41467-020-18740-x)
-
-Leclerc et al. (2020). Divers. Distrib. 26 (4): 402-414. | [pdf](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13024)
-
-Leclerc et al. (2018). Sci. Rep. 8:6393. | [pdf](https://www.nature.com/articles/s41598-018-24733-0)
+Leclerc et al. (2020). Nat. Commun. 11: 4943. $|$ [pdf](https://www.nature.com/articles/s41467-020-18740-x)
+Leclerc et al. (2020). Divers. Distrib. 26 (4): 402-414. $|$ [pdf](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13024)
+Leclerc et al. (2018). Sci. Rep. 8:6393. $|$ [pdf](https://www.nature.com/articles/s41598-018-24733-0)
 
 ------
 
@@ -35,6 +32,8 @@ Leclerc et al. (2018). Sci. Rep. 8:6393. | [pdf](https://www.nature.com/articles
 **Collaborators:** [Victor Frossard](https://www.researchgate.net/profile/Victor-Frossard), [Arnaud Sentis](https://arnaudsentis.com/)
 
 Understanding whether and how environmental conditions may impact food web structure is central to our ability to predict how food webs will respond to global change. To apprehend these cornerstone questions, I focused my food webs research on freshwater ecosystems and particularly lakes. I am interested to explore the influence of natural and anthropic environmental variables on the structure of food webs by addressing several research questions. Here are some examples:
+
 * How spatial patterns in food-web structure are associated with environmental gradients?
 * How species, e.g. sensitive to global change, contribute to food-web structure?
+
 Based on the different outputs from patterns of food web structures, I am also interested to develop a functional indicator of the impact of global change, and particularly climatic, on communities and their resilience.
