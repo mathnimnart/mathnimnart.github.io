@@ -10,7 +10,7 @@ author_profile: true
 
 ## <span style="color:#9e0142">**Laboratory pages**</span>
 <a href="https://paimpont.univ-rennes1.fr/" target="_blank" style="color:#66c2a5;">Biological Station of Paimpont</a>  
-<a href="https://www.cebc.cnrs.fr/" target="_blank">Centre of Biological Studies Chizé (CEBC)</a>  
+<a href="https://www.cebc.cnrs.fr/" target="_blank" style="color:#66c2a5;">Centre of Biological Studies Chizé (CEBC)</a>  
 <a href="https://www.ese.universite-paris-saclay.fr/en/homepage/" target="_blank" style="color:#66c2a5;">Ecology, Systematic, Evolution Unit (ESE)</a>  
 <a href="https://ecobio.univ-rennes1.fr/" target="_blank" style="color:#66c2a5;">Ecosystems, Biodiversity, Evolution Unit (ECOBIO)</a>  
 <a href="https://www.institut-polaire.fr/language/fr/" target="_blank" style="color:#66c2a5;">French Polar Institute Paul-Emile Victor</a>  
