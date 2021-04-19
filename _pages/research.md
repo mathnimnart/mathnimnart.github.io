@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "RESEARCH INTERESTS: BIODIVERSITY & GLOBAL CHANGE DRIVERS"
+title: "RESEARCH INTERESTS"
 permalink: /research/
 author_profile: true
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
+
+#**BIODIVERSITY & GLOBAL CHANGE DRIVERS"**#
 
 ------
 
