@@ -8,6 +8,7 @@ header-includes:
     - \hypersetup {colorlinks = true, linkcolor = '#9e0142', urlcolor = '#9e0142'}
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
+
 \vspace{0.5cm}
 ------
 \vspace{0.5cm}
