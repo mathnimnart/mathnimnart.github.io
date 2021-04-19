@@ -7,11 +7,11 @@ author_profile: true
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
-#**BIODIVERSITY & GLOBAL CHANGE DRIVERS**
+# **BIODIVERSITY & GLOBAL CHANGE DRIVERS**
 
 ------
 
-## Assessment of global change drivers on biodiversity and its multiple dimensions [red and **bold**]{color="red"}
+## <p style="color:red">**Assessment of global change drivers on biodiversity and its multiple dimensions**</p>
 **Collaborators:** [Céline Bellard](https://celinebellard.wordpress.com/), [Franck Courchamp](https://www.biodiversitydynamics.fr/), [Clara Marino](https://www.researchgate.net/profile/Clara-Marino-2), [Sébastien Villéger](http://villeger.sebastien.free.fr/)
 
 What are the current and future threatening processes impacting biodiversity? What are their impacts? To apprehend these cornerstone questions in ecology and conservation biology, I mostly focused on island ecosystems that host unique fauna and flora particularly vulnerable to global changes. I am interested to explore biodiversity patterns in the current and future context of global changes by addressing several research questions. Here are some examples:
@@ -26,7 +26,7 @@ Leclerc et al. (2018). Sci. Rep. 8:6393. | [pdf](https://www.nature.com/articles
 
 ------
 
-## Assessment of natural and anthropic environmental drivers on community food webs [red and **bold**]{color="red"}
+## ## <p style="color:red">**Assessment of natural and anthropic environmental drivers on community food webs**</p>
 **Collaborators:** [Victor Frossard](https://www.researchgate.net/profile/Victor-Frossard), [Arnaud Sentis](https://arnaudsentis.com/)
 
 Understanding whether and how environmental conditions may impact food web structure is central to our ability to predict how food webs will respond to global change. To apprehend these cornerstone questions, I focused my food webs research on freshwater ecosystems and particularly lakes. I am interested to explore the influence of natural and anthropic environmental variables on the structure of food webs by addressing several research questions. Here are some examples:
