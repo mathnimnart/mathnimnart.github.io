@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style> body {text-align: justify} </style> <!-- Justify text. -->
 
 I am a postdoctoral researcher currently working at [INRAE – UMR RECOVER](https://www6.paca.inrae.fr/recover/) based in Aix-en-Provence (France).
 
