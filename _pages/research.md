@@ -7,28 +7,27 @@ author_profile: true
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
-# Header 1
-**bold** BIODIVERSITY & GLOBAL CHANGE DRIVERS __bold__
+#**BIODIVERSITY & GLOBAL CHANGE DRIVERS**
 
 ------
 
-**bold** Assessment of global change drivers on biodiversity and its multiple dimensions __bold__ \textcolor{red}{red}
-**bold** Collaborators: __bold__ [Céline Bellard](https://celinebellard.wordpress.com/), [Franck Courchamp](https://www.biodiversitydynamics.fr/), [Clara Marino](https://www.researchgate.net/profile/Clara-Marino-2), [Sébastien Villéger](http://villeger.sebastien.free.fr/)
+## Assessment of global change drivers on biodiversity and its multiple dimensions [red and **bold**]{color="red"}
+**Collaborators:** [Céline Bellard](https://celinebellard.wordpress.com/), [Franck Courchamp](https://www.biodiversitydynamics.fr/), [Clara Marino](https://www.researchgate.net/profile/Clara-Marino-2), [Sébastien Villéger](http://villeger.sebastien.free.fr/)
 
 What are the current and future threatening processes impacting biodiversity? What are their impacts? To apprehend these cornerstone questions in ecology and conservation biology, I mostly focused on island ecosystems that host unique fauna and flora particularly vulnerable to global changes. I am interested to explore biodiversity patterns in the current and future context of global changes by addressing several research questions. Here are some examples:
 • How threats co-occurred and interacted with diversity?
 • What are the potential consequences of threatening processes on the multiple dimensions of biodiversity (taxonomic, functional, and phylogenetic)?
 Based on the different outputs from patterns of biodiversity and/or threatening processes, I am also interested to highlight conservation value of particular areas for improving systematic conservation planning.
 
-**bold** Publications: __bold__
+**Publications:**
 Leclerc et al. (2020). Nat. Commun. 11: 4943. | [pdf](https://www.nature.com/articles/s41467-020-18740-x)
 Leclerc et al. (2020). Divers. Distrib. 26 (4): 402-414. | [pdf](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13024)
 Leclerc et al. (2018). Sci. Rep. 8:6393. | [pdf](https://www.nature.com/articles/s41598-018-24733-0)
 
 ------
 
-**bold** Assessment of natural and anthropic environmental drivers on community food webs __bold__ \textcolor{red}{red}
-**bold** Collaborators: __bold__ [Victor Frossard](https://www.researchgate.net/profile/Victor-Frossard), [Arnaud Sentis](https://arnaudsentis.com/)
+## Assessment of natural and anthropic environmental drivers on community food webs [red and **bold**]{color="red"}
+**Collaborators:** [Victor Frossard](https://www.researchgate.net/profile/Victor-Frossard), [Arnaud Sentis](https://arnaudsentis.com/)
 
 Understanding whether and how environmental conditions may impact food web structure is central to our ability to predict how food webs will respond to global change. To apprehend these cornerstone questions, I focused my food webs research on freshwater ecosystems and particularly lakes. I am interested to explore the influence of natural and anthropic environmental variables on the structure of food webs by addressing several research questions. Here are some examples:
 • How spatial patterns in food-web structure are associated with environmental gradients?
