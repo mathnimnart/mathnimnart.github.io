@@ -3,16 +3,13 @@ layout: archive
 title: "LINKS"
 permalink: /links/
 author_profile: true
-header-includes:
-    - \usepackage {hyperref}
-    - \hypersetup {colorlinks = true, linkcolor = '#9e0142', urlcolor = '#9e0142'}
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 ------
 
 ## <span style="color:#9e0142">**Laboratory pages**</span>
-<a href="https://paimpont.univ-rennes1.fr/" target="_blank">Biological Station of Paimpont</a>  
+<a href="https://paimpont.univ-rennes1.fr/" target="_blank" style="color:#9e0142;">Biological Station of Paimpont</a>  
 <a href="https://www.cebc.cnrs.fr/" target="_blank">Centre of Biological Studies Chizé (CEBC)</a>  
 <a href="https://www.ese.universite-paris-saclay.fr/en/homepage/" target="_blank">Ecology, Systematic, Evolution Unit (ESE)</a>  
 <a href="https://ecobio.univ-rennes1.fr/" target="_blank">Ecosystems, Biodiversity, Evolution Unit (ECOBIO)</a>  
