@@ -17,7 +17,7 @@ header-includes:
 <a href="https://www.institut-polaire.fr/language/fr/" target="_blank">French Polar Institute Paul-Emile Victor</a>  
 <a href="https://professionnels.ofb.fr/fr/pole-ecla-ecosystemes-lacustres" target="_blank">Research & Development center “Lake Ecosystems” (ECLA)</a>   
 <a href="https://www6.paca.inrae.fr/recover/" target="_blank">Risks, ECO-systems, Vulnerability, Environment, Resilience Unit (RECOVER)</a>  
-<a href="https://sete-moulis-cnrs.fr/fr/" target="_blank">Theoretical and Experimental Ecology Station (SETE)</a>
+<a href="https://sete-moulis-cnrs.fr/fr/" target="_blank">Theoretical and Experimental Ecology Station (SETE)</a>  
 ------
 ## <span style="color:#9e0142">**Personal pages**</span>
 <a href="https://celinebellard.wordpress.com/" target="_blank">Céline Bellard</a>  
