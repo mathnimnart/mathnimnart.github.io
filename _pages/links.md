@@ -8,7 +8,7 @@ header-includes:
     - \hypersetup {colorlinks = true, linkcolor = '#9e0142', urlcolor = '#9e0142'}
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
-------  
+------
 ## <span style="color:#9e0142">**Laboratory pages**</span>
 <a href="https://paimpont.univ-rennes1.fr/" target="_blank">Biological Station of Paimpont</a>  
 <a href="https://www.cebc.cnrs.fr/" target="_blank">Centre of Biological Studies Chizé (CEBC)</a>  
@@ -18,7 +18,7 @@ header-includes:
 <a href="https://professionnels.ofb.fr/fr/pole-ecla-ecosystemes-lacustres" target="_blank">Research & Development center “Lake Ecosystems” (ECLA)</a>   
 <a href="https://www6.paca.inrae.fr/recover/" target="_blank">Risks, ECO-systems, Vulnerability, Environment, Resilience Unit (RECOVER)</a>  
 <a href="https://sete-moulis-cnrs.fr/fr/" target="_blank">Theoretical and Experimental Ecology Station (SETE)</a>
-------  
+------
 ## <span style="color:#9e0142">**Personal pages**</span>
 <a href="https://celinebellard.wordpress.com/" target="_blank">Céline Bellard</a>  
 <a href="https://elsabonnaud.fr/" target="_blank">Elsa Bonnaud</a>  
