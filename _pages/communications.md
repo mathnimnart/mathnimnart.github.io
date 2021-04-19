@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Communications"
+title: "COMMUNICATIONS"
 permalink: /communications/
 author_profile: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "BIODIVERSITY & GLOBAL CHANGE DRIVERS"
+title: "RESEARCH INTERESTS: BIODIVERSITY & GLOBAL CHANGE DRIVERS"
 permalink: /research/
 author_profile: true
 
