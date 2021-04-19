@@ -6,7 +6,7 @@ author_profile: true
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
-# **BIODIVERSITY & GLOBAL CHANGE DRIVERS"**
+# **BIODIVERSITY & GLOBAL CHANGE DRIVERS**
 
 ------
 
