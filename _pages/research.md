@@ -3,7 +3,9 @@ layout: archive
 title: "RESEARCH INTERESTS: BIODIVERSITY & GLOBAL CHANGE DRIVERS"
 permalink: /research/
 author_profile: true
-
+header-includes:
+    - \usepackage {hyperref}
+    - \hypersetup {colorlinks = true, linkcolor = #9e0142, urlcolor = #9e0142}
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
@@ -18,9 +20,9 @@ What are the current and future threatening processes impacting biodiversity? Wh
 Based on the different outputs from patterns of biodiversity and/or threatening processes, I am also interested to highlight conservation value of particular areas for improving systematic conservation planning.
 
 **Publications:**  
-Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ <span style="color:#66c2a5">[pdf](https://www.nature.com/articles/s41467-020-18740-x)</span>  
-Leclerc *et al.* (2020). *Divers. Distrib.* 26 (4): 402-414. $|$ <span style="color:#66c2a5">[pdf](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13024)</span>  
-Leclerc *et al.* (2018). *Sci. Rep.* 8:6393. $|$ <span style="color:#66c2a5">[pdf](https://www.nature.com/articles/s41598-018-24733-0)</span>
+Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ <a href="https://www.nature.com/articles/s41467-020-18740-x" target="_blank">pdf</a>  
+Leclerc *et al.* (2020). *Divers. Distrib.* 26 (4): 402-414. $|$ <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13024" target="_blank">pdf</a>  
+Leclerc *et al.* (2018). *Sci. Rep.* 8:6393. $|$ <a href="https://www.nature.com/articles/s41598-018-24733-0" target="_blank">pdf</a>  
 
 ------
 

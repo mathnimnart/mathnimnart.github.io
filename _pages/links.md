@@ -3,8 +3,9 @@ layout: archive
 title: "LINKS"
 permalink: /links/
 author_profile: true
-urlcolor: #9e0142
-linkcolor: #9e0142
+header-includes:
+    - \usepackage {hyperref}
+    - \hypersetup {colorlinks = true, linkcolor = #9e0142, urlcolor = #9e0142}
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
