@@ -26,7 +26,7 @@ Leclerc et al. (2018). Sci. Rep. 8:6393. | [pdf](https://www.nature.com/articles
 
 ------
 
-## ## <p style="color:red">**Assessment of natural and anthropic environmental drivers on community food webs**</p>
+## <p style="color:red">**Assessment of natural and anthropic environmental drivers on community food webs**</p>
 **Collaborators:** [Victor Frossard](https://www.researchgate.net/profile/Victor-Frossard), [Arnaud Sentis](https://arnaudsentis.com/)
 
 Understanding whether and how environmental conditions may impact food web structure is central to our ability to predict how food webs will respond to global change. To apprehend these cornerstone questions, I focused my food webs research on freshwater ecosystems and particularly lakes. I am interested to explore the influence of natural and anthropic environmental variables on the structure of food webs by addressing several research questions. Here are some examples:
