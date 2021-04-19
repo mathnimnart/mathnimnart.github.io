@@ -5,9 +5,11 @@ permalink: /research/
 author_profile: true
 header-includes:
     - \usepackage {hyperref}
-    - \hypersetup {colorlinks = true, linkcolor = #9e0142, urlcolor = #9e0142}
+    - \hypersetup {colorlinks = true, linkcolor = '#9e0142', urlcolor = '#9e0142'}
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
+
+------
 
 ## <span style="color:#9e0142">**Assessment of global change drivers on biodiversity and its multiple dimensions**</span>
 **Collaborators:** [Céline Bellard](https://celinebellard.wordpress.com/), [Franck Courchamp](https://www.biodiversitydynamics.fr/), [Clara Marino](https://www.researchgate.net/profile/Clara-Marino-2), [Sébastien Villéger](http://villeger.sebastien.free.fr/)
