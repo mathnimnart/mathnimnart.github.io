@@ -9,7 +9,7 @@ author_profile: true
 ------
 
 ## <span style="color:#9e0142">**Laboratory pages**</span>
-<img alt="Custom badge" src="https://img.shields.io/endpoint?color=%23b2182b&label=Biological%20Station%20of%20Paimpont&logo=site%20web&logoColor=%234d4d4d&style=for-the-badge&url=https%3A%2F%2Fpaimpont.univ-rennes1.fr%2F">
+`r badger::badge_custom("Biological Station of Paimpont", "site web", "#66c2a5", "https://paimpont.univ-rennes1.fr/")`
 <a href="https://paimpont.univ-rennes1.fr/" target="_blank" style="color:#66c2a5;">Biological Station of Paimpont</a>  
 <a href="https://www.cebc.cnrs.fr/" target="_blank" style="color:#66c2a5;">Centre of Biological Studies Chizé (CEBC)</a>  
 <a href="https://www.ese.universite-paris-saclay.fr/en/homepage/" target="_blank" style="color:#66c2a5;">Ecology, Systematic, Evolution Unit (ESE)</a>  
