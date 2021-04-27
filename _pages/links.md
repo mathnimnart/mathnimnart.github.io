@@ -9,9 +9,9 @@ author_profile: true
 ------
 
 ## <span style="color:#9e0142">**Laboratory pages**</span>
-[![BSP](https://img.shields.io/badge/Biological Station of Paimpont-website-66c2a5.svg)](https://paimpont.univ-rennes1.fr/)
+[![saythanks](https://img.shields.io/badge/Biological Station of Paimpont-website-66c2a5.svg)](https://paimpont.univ-rennes1.fr/)
 
-<a href="https://paimpont.univ-rennes1.fr/" target="_blank"> [![BSP](https://img.shields.io/badge/Biological Station of Paimpont-website-66c2a5.svg)]</a>  
+<a href="https://paimpont.univ-rennes1.fr/" target="_blank"> [![saythanks](https://img.shields.io/badge/Biological Station of Paimpont-website-66c2a5.svg)]</a>  
 <a href="https://www.cebc.cnrs.fr/" target="_blank" style="color:#66c2a5;">Centre of Biological Studies Chizé (CEBC)</a>  
 <a href="https://www.ese.universite-paris-saclay.fr/en/homepage/" target="_blank" style="color:#66c2a5;">Ecology, Systematic, Evolution Unit (ESE)</a>  
 <a href="https://ecobio.univ-rennes1.fr/" target="_blank" style="color:#66c2a5;">Ecosystems, Biodiversity, Evolution Unit (ECOBIO)</a>  
