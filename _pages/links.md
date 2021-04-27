@@ -9,16 +9,14 @@ author_profile: true
 ------
 
 ## <span style="color:#9e0142">**Laboratory pages**</span>
-[![BSP](https://img.shields.io/badge/Biological Station of Paimpont-website-66c2a5.svg)](https://paimpont.univ-rennes1.fr/){:target="_blank"}
-
- 
-<a href="https://www.cebc.cnrs.fr/" target="_blank" style="color:#66c2a5;">Centre of Biological Studies Chizé (CEBC)</a>  
-<a href="https://www.ese.universite-paris-saclay.fr/en/homepage/" target="_blank" style="color:#66c2a5;">Ecology, Systematic, Evolution Unit (ESE)</a>  
-<a href="https://ecobio.univ-rennes1.fr/" target="_blank" style="color:#66c2a5;">Ecosystems, Biodiversity, Evolution Unit (ECOBIO)</a>  
-<a href="https://www.institut-polaire.fr/language/fr/" target="_blank" style="color:#66c2a5;">French Polar Institute Paul-Emile Victor</a>  
-<a href="https://professionnels.ofb.fr/fr/pole-ecla-ecosystemes-lacustres" target="_blank" style="color:#66c2a5;">Research & Development center “Lake Ecosystems” (ECLA)</a>   
-<a href="https://www6.paca.inrae.fr/recover/" target="_blank" style="color:#66c2a5;">Risks, ECO-systems, Vulnerability, Environment, Resilience Unit (RECOVER)</a>  
-<a href="https://sete-moulis-cnrs.fr/fr/" target="_blank" style="color:#66c2a5;">Theoretical and Experimental Ecology Station (SETE)</a>  
+[(https://img.shields.io/badge/Biological Station of Paimpont-website-66c2a5.svg)](https://paimpont.univ-rennes1.fr/){:target="_blank"}
+[![CEBC](https://img.shields.io/badge/Centre of Biological Studies Chizé (CEBC)-website-66c2a5.svg)](https://www.cebc.cnrs.fr/){:target="_blank"}
+[![ESE](https://img.shields.io/badge/Ecology, Systematic, Evolution Lab (ESE)-website-66c2a5.svg)](https://www.ese.universite-paris-saclay.fr/en/homepage/){:target="_blank"}
+[![ECOBIO](https://img.shields.io/badge/Ecosystems, Biodiversity, Evolution Lab (ECOBIO)-website-66c2a5.svg)](https://ecobio.univ-rennes1.fr/){:target="_blank"}
+[![IPEV](https://img.shields.io/badge/French Polar Institute Paul-Emile Victor-website-66c2a5.svg)](https://www.institut-polaire.fr/language/en/){:target="_blank"}
+[![ECLA](https://img.shields.io/badge/Research & Development center “Lake Ecosystems” (ECLA)-website-66c2a5.svg)](https://professionnels.ofb.fr/fr/pole-ecla-ecosystemes-lacustres){:target="_blank"}
+[![RECOVER](https://img.shields.io/badge/Risks, ECO-systems, Vulnerability, Environment, Resilience Unit (RECOVER)-website-66c2a5.svg)](https://www6.paca.inrae.fr/recover_eng/){:target="_blank"}
+[![SETE](https://img.shields.io/badge/Theoretical and Experimental Ecology Station (SETE)-website-66c2a5.svg)](https://sete-moulis-cnrs.fr/en/){:target="_blank"}
 
 ------
 
