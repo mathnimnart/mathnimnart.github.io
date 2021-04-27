@@ -9,15 +9,15 @@ author_profile: true
 ------
 
 ## <span style="color:#9e0142">**Laboratory pages**</span>
-<p>[![BSP](https://img.shields.io/badge/Biological Station of Paimpont-website-66c2a5.svg)](https://paimpont.univ-rennes1.fr/){:target="_blank"}<br>
-<a>[![CEBC](https://img.shields.io/badge/Centre of Biological Studies Chizé (CEBC)-website-66c2a5.svg)](https://www.cebc.cnrs.fr/){:target="_blank"}<br>
+[![BSP](https://img.shields.io/badge/Biological Station of Paimpont-website-66c2a5.svg)](https://paimpont.univ-rennes1.fr/){:target="_blank"}<br>
+<a>[![CEBC](https://img.shields.io/badge/Centre of Biological Studies Chizé (CEBC)-website-66c2a5.svg)](https://www.cebc.cnrs.fr/?lang=en){:target="_blank"}<br>
 <a>[![ESE](https://img.shields.io/badge/Ecology, Systematic, Evolution Lab (ESE)-website-66c2a5.svg)](https://www.ese.universite-paris-saclay.fr/en/homepage/){:target="_blank"}<br>
 <a>[![ECOBIO](https://img.shields.io/badge/Ecosystems, Biodiversity, Evolution Lab (ECOBIO)-website-66c2a5.svg)](https://ecobio.univ-rennes1.fr/){:target="_blank"}<br>
 <a>[![IPEV](https://img.shields.io/badge/French Polar Institute Paul--Emile Victor-website-66c2a5.svg)](https://www.institut-polaire.fr/language/en/){:target="_blank"}<br>
 <a>[![ECLA](https://img.shields.io/badge/Research & Development center “Lake Ecosystems” (ECLA)-website-66c2a5.svg)](https://professionnels.ofb.fr/fr/pole-ecla-ecosystemes-lacustres){:target="_blank"}<br>
 <a>[![RECOVER](https://img.shields.io/badge/Risks, ECO--systems, Vulnerability, Environment, Resilience Unit (RECOVER)-website-66c2a5.svg)](https://www6.paca.inrae.fr/recover_eng/){:target="_blank"}<br>
-<a>[![SETE](https://img.shields.io/badge/Theoretical and Experimental Ecology Station (SETE)-website-66c2a5.svg)](https://sete-moulis-cnrs.fr/en/){:target="_blank"}
-</p>
+<a>[![SETE](https://img.shields.io/badge/Theoretical and Experimental Ecology Station (SETE)-website-66c2a5.svg)](https://sete-moulis-cnrs.fr/en/){:target="_blank"}<br>
+
 ------
 
 ## <span style="color:#9e0142">**Personal pages**</span>
