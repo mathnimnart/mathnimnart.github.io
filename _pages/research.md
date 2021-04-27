@@ -21,6 +21,8 @@ What are the current and future threatening processes impacting biodiversity? Wh
 Based on the different outputs from patterns of biodiversity and/or threatening processes, I am also interested to highlight conservation value of particular areas for improving systematic conservation planning.
 
 **Publications:**  
+[![NC](https://img.shields.io/badge/Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943.-institute DOI: 10.1038/s41467--020--18740--x-5e4fa2.svg)](https://doi.org/10.1038/s41467-020-18740-x){:target="_blank"}<br>
+
 Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ <a href="https://www.nature.com/articles/s41467-020-18740-x" target="_blank" style="color:#5e4fa2;">pdf</a>  
 Leclerc *et al.* (2020). *Divers. Distrib.* 26 (4): 402-414. $|$ <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13024" target="_blank" style="color:#5e4fa2;">pdf</a>
 Leclerc *et al.* (2018). *Sci. Rep.* 8:6393. $|$ <a href="https://www.nature.com/articles/s41598-018-24733-0" target="_blank" style="color:#5e4fa2;">pdf</a>  
