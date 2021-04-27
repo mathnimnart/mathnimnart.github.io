@@ -22,7 +22,7 @@ Based on the different outputs from patterns of biodiversity and/or threatening 
 
 **Publications:**  
 Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ <a href="https://www.nature.com/articles/s41467-020-18740-x" target="_blank" style="color:#5e4fa2;">pdf</a>  
-Leclerc *et al.* (2020). *Divers. Distrib.* 26 (4): 402-414. $|$ <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13024" target="_blank" style="color:#5e4fa2;">pdf</a>  
+Leclerc *et al.* (2020). *Divers. Distrib.* 26 (4): 402-414. $|$ <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13024" target="_blank" style="color:#5e4fa2;">pdf</a>
 Leclerc *et al.* (2018). *Sci. Rep.* 8:6393. $|$ <a href="https://www.nature.com/articles/s41598-018-24733-0" target="_blank" style="color:#5e4fa2;">pdf</a>  
 
 ------
