@@ -16,5 +16,7 @@ author_profile: true
 
 <span style="color:#66c2a5">**Leclerc, C.**</span>, Courchamp, F. & Bellard, C. (2018), Insular threat associations within taxa worldwide.*Scientific Reports*, 8: 6393.  $|$ [![SR](https://img.shields.io/badge/DOI-10.1038/s41598--018--24733--0-5e4fa2.svg)](https://doi.org/10.1038/s41598-018-24733-0){:target="_blank"}<br>
 
-Bellard, C., <span style="color:#66c2a5">**Leclerc, C.**</span>, Hoffmann, B.D. & Courchamp, F. (2016), Vulnerability to climate change and sea-level rise of the 35<sup>th</sub> biodiversity hotspot, the Forests of East Australia. *Environmental Conservation*, 43 (1): 79-89.  $|$ [![SR](https://img.shields.io/badge/DOI-10.1017/S037689291500020X-5e4fa2.svg)](https://doi.org/10.1017/S037689291500020X){:target="_blank"}<br>
+Bellard, C., <span style="color:#66c2a5">**Leclerc, C.**</span>, Hoffmann, B.D. & Courchamp, F. (2016), Vulnerability to climate change and sea-level rise of the 35 <sup>th</sub> biodiversity hotspot, the Forests of East Australia. *Environmental Conservation*, 43 (1): 79-89.  $|$ [![EC](https://img.shields.io/badge/DOI-10.1017/S037689291500020X-5e4fa2.svg)](https://doi.org/10.1017/S037689291500020X){:target="_blank"}<br>
+
+Bellard, C., <span style="color:#66c2a5">**Leclerc, C.**</span> & Courchamp, F. (2015), Combined impacts of global changes on biodiversity across the USA. *Scientific Reports*, 5: 11828. $|$ [![SR](https://img.shields.io/badge/DOI-10.1038/srep11828-5e4fa2.svg)](https://doi.org/10.1038/srep11828){:target="_blank"}<br>
 
