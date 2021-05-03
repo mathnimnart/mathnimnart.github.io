@@ -10,9 +10,7 @@ author_profile: true
 
 ## <span style="color:#9e0142">**Peer-reviewed publications**</span>
 
-$|A|$
-
-$|$ essi
+$|$essi
 
 <span style="color:#66c2a5">**Leclerc, C.**</span>, Courchamp, F. & Bellard, C. (2020). Future climate change vulnerability of endemic island mammals. *Nature Communications*, 11: 4943. [![NC](https://img.shields.io/badge/DOI-10.1038/s41467--020--18740--x-5e4fa2.svg)](https://doi.org/10.1038/s41467-020-18740-x){:target="_blank"} [![PR1](https://img.shields.io/badge/Press release [FR]-INEE CNRS -f46d43.svg)](https://inee.cnrs.fr/fr/cnrsinfo/le-changement-climatique-menace-les-ecosystemes-insulaires-et-leur-biodiversite-unique){:target="_blank"} [![PR2](https://img.shields.io/badge/Press release [FR]-Univ. Paris--Saclay -f46d43.svg)](https://www.universite-paris-saclay.fr/actualites/vers-une-extinction-despeces-dans-les-iles-du-pacifique-cause-du-changement-climatique){:target="_blank"}<br>
 
