@@ -5,8 +5,7 @@ permalink: /communications/
 author_profile: true
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
-<style>
-      .container {
+<style> container {
         display: flex;
         align-items: center;
         justify-content: center
