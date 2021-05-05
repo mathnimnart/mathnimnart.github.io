@@ -17,4 +17,4 @@ For more information about my research experience, see my <a href="https://camil
 
 Feel free to contact me for any request, potential collaboration…
 
-<img class="wp-image-817" style="width:340px;" src="images/logo_institut.png" alt="hi" class="inline"/>
+<img class="wp-image-817" style="width:340px;" src="images/logo_institut.png" alt="logo_institut" class="inline"/>
