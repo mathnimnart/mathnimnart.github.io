@@ -8,20 +8,12 @@ author_profile: true
 
 ------
 
-<!-- moved "vertical-align:middle" style from span to img -->
-<!-- moved "vertical-align:middle" style from span to img -->
-<div>
-  <div style="display:table;width:30px;height:60px;">
-  <img style="vertical-align:middle" src="https://placehold.it/60x60">
-  <div style="display:table-cell;height:30px;">This is positioned in the middle</div>
+<div class="profile-details-wrapper">
+  <img class="profile-picture" src="http://placehold.it/50x50">
+  <div class="profile-details">
+text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here
+  </div>
 </div>
-</div>
-
-
-<div>
-  <img style="vertical-align:middle" src="/images/logo_malaga_2019.png" width="50" hspace="20">
-  <span style=""><span style="color:#3B528B">**Leclerc, C.**</span>, S. Villéger, Courchamp, F. & Bellard, C. “Global changes threaten functional and taxonomic diversity of insular species worldwide”. *9th Biennial Conference International Biogeography*, Málaga, Spain. 8-11 January 2019.</span> </div> [![or5](https://img.shields.io/badge/figshare-s/84e67cb4cc6a98e87e95-21908C.svg)](https://figshare.com/s/84e67cb4cc6a98e87e95){:target="_blank"}
-
 
 
 ## <span style="color:#440154">**Oral presentations**</span>
