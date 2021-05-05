@@ -12,17 +12,17 @@ author_profile: true
 ## <span style="color:#440154">**Oral presentations**</span>
 
 <img src="images/logo_malaga_2019.jpeg"
-  width="128"
+  width="65"
   style="float:left;">
 <span style="color:#3B528B">**Leclerc, C.**</span>, S. Villéger, Courchamp, F. & Bellard, C. “Global changes threaten functional and taxonomic diversity of insular species worldwide”. *9th Biennial Conference International Biogeography*, Málaga, Spain. 8-11 January 2019. [![or5](https://img.shields.io/badge/figshare-s/84e67cb4cc6a98e87e95-21908C.svg)](https://figshare.com/s/84e67cb4cc6a98e87e95){:target="_blank"}
 
 <img src="images/logo_sfecologie_2018.png"
-  width="128"
+  width="65"
   style="float:left;">
 <span style="color:#3B528B">**Leclerc, C.**</span>, Courchamp, F. & Bellard, C. “Insular threat associations within taxa worldwide”. *SFEcologie - International Conference on Ecological Sciences*, Rennes, France. 22-25 October 2018. [![or4](https://img.shields.io/badge/figshare-s/363da25268b55e068613-21908C.svg)](https://figshare.com/s/363da25268b55e068613){:target="_blank"}
 
 <img src="images/logo_islandbiology.jpg"
-  width="128"
+  width="65"
   style="float:left;">
 <span style="color:#3B528B">**Leclerc, C.**</span>, Bellard, C. & Courchamp, F. “Impact of sea-level rise on insular ecosystems”. *Island Biology*, Honolulu, Hawaii. 7-11 July 2014. [![or2](https://img.shields.io/badge/figshare-s/754f947c8e0b675ed33b-21908C.svg)](https://figshare.com/s/754f947c8e0b675ed33b){:target="_blank"}
 
