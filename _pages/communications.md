@@ -5,13 +5,13 @@ permalink: /communications/
 author_profile: true
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
-
+<!-- moved "vertical-align:middle" style from span to img -->
 ------
 
-<!-- moved "vertical-align:middle" style from span to img -->
+
 <div>
-  <img style="vertical-align:middle" src="https://placehold.it/60x60">
-  <span style="">Works.</span>
+  <img style="vertical-align:middle" src="/images/logo_malaga_2019.png" width="50" hspace="20">
+  <span style=""><span style="color:#3B528B">**Leclerc, C.**</span>, S. Villéger, Courchamp, F. & Bellard, C. “Global changes threaten functional and taxonomic diversity of insular species worldwide”. *9th Biennial Conference International Biogeography*, Málaga, Spain. 8-11 January 2019. [![or5](https://img.shields.io/badge/figshare-s/84e67cb4cc6a98e87e95-21908C.svg)](https://figshare.com/s/84e67cb4cc6a98e87e95){:target="_blank"}</span>
 </div>
 
 
