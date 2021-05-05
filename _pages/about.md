@@ -16,3 +16,5 @@ I am particularly interested by research questions which lies at the interface b
 For more information about my research experience, see my <a href="https://camilleleclerc.github.io/cv/" target="_blank" style="color:#31688E;">curriculum vitæ</a>.
 
 Feel free to contact me for any request, potential collaboration…
+
+<img class="wp-image-817" style="width:340px;" src="images/logo_institut.png" alt="hi" class="inline"/>
