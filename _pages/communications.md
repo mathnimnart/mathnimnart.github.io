@@ -40,8 +40,7 @@ author_profile: true
 <img src="/images/logo_ynhm_2017.jpg"
   width="50"
   hspace="20"
-  style="vertical-align:middle;"
-  style="float:left;">
+  style="vertical-align:middle;">
 <span style="color:#3B528B">**Leclerc, C.**</span>, Courchamp, F. & Bellard, C. “Major threats that imperil insular ecosystems”. *4th Young Natural History scientists’ Meeting*, Paris, France. 7-10 February 2017. [![or3](https://img.shields.io/badge/figshare-s/34f7eb89aa90ab001f9a-21908C.svg)](https://figshare.com/s/34f7eb89aa90ab001f9a){:target="_blank"} [![CG](https://img.shields.io/badge/Best Poster Presentation-Session Biodiversity Dynamics and Conservation-5DC863.svg)](https://www.sfecologie.org/2017/03/11/laureats-sfe-jeunes-chercheurs-sciences-naturelles/){:target="_blank"}
 
 <img src="/images/logo_ynhm_2014.png"
