@@ -8,6 +8,13 @@ author_profile: true
 
 ------
 
+<!-- moved "vertical-align:middle" style from span to img -->
+<div>
+  <img style="vertical-align:middle" src="https://placehold.it/60x60">
+  <span style="">Works.</span>
+</div>
+
+
 ## <span style="color:#440154">**Oral presentations**</span>
 
 <img src="/images/logo_malaga_2019.png"
