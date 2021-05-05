@@ -8,12 +8,31 @@ author_profile: true
 
 ------
 
-<div class="profile-details-wrapper">
-  <img class="profile-picture" src="http://placehold.it/50x50">
-  <div class="profile-details">
-text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here
-  </div>
-</div>
+<style>
+#dv1 {
+  position: relative;
+  margin: 3px auto;
+  width: 80%;
+  border: 1px solid #33e;
+  text-align: center;
+  padding: 4px;
+}
+#dv1 img {
+  width: 200px;
+  height: 65px;
+  vertical-align: middle;
+}
+#dv1 div {
+  display: inline-block;
+  vertical-align: middle;
+}
+</style>
+
+<div id="dv1">
+  <img src="/images/logo_malaga_2019.png"
+    width="50" alt="Image" />
+  <div>Perfectly centered.<br>
+  Other 
 
 
 ## <span style="color:#440154">**Oral presentations**</span>
