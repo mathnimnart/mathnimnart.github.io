@@ -8,6 +8,11 @@ author_profile: true
 
 ------
 
+<img src="/images/conf_band.png"
+    class="center">
+
+------
+
 ## <span style="color:#440154">**Oral presentations**</span>
 
 
