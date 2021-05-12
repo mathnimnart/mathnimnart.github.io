@@ -10,14 +10,8 @@ author_profile: true
 
 ## <span style="color:#440154">**Oral presentations**</span>
 
-<table>
-  <tr>
-    <td><img src="/images/Congress_4.jpg", width=100></td>
-    <td><img src="/images/Congress_3.jpg", width=100></td>
-    <td><img src="/images/Congress_2.png", width=100></td>
-    <td><img src="/images/Congress_1.png", width=100></td>
-  </tr>
- </table>
+<img src="/images/Congress_4.jpg", width="100, hspace="20", style="float:left; display:inline"> <img src="/images/Congress_3.jpg", width=100, hspace="20", style="float:left; display:inline"> <img src="/images/Congress_2.png", width=100, hspace="20", style="float:left; display:inline"> <img src="/images/Congress_1.png", width=100, hspace="20", style="float:left; display:inline">
+
 
 
 <img src="/images/logo_malaga_2019.jpeg"
