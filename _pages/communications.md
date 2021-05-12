@@ -19,7 +19,7 @@ author_profile: true
 <img src="/images/logo_sfecologie_2018.png"
   width="50"
   hspace="20"
-  style="align:middle; float:left"> <span style="color:#3B528B">**Leclerc, C.**</span>, Courchamp, F. & Bellard, C. “Insular threat associations within taxa worldwide”. *SFEcologie - International Conference on Ecological Sciences*, Rennes, France. 22-25 October 2018. [![or4](https://img.shields.io/badge/figshare-s/363da25268b55e068613-21908C.svg)](https://figshare.com/s/363da25268b55e068613){:target="_blank"}
+  align="left"> <span style="color:#3B528B">**Leclerc, C.**</span>, Courchamp, F. & Bellard, C. “Insular threat associations within taxa worldwide”. *SFEcologie - International Conference on Ecological Sciences*, Rennes, France. 22-25 October 2018. [![or4](https://img.shields.io/badge/figshare-s/363da25268b55e068613-21908C.svg)](https://figshare.com/s/363da25268b55e068613){:target="_blank"}
 
 <img src="/images/logo_islandbiology.png"
   width="50"
@@ -38,4 +38,4 @@ author_profile: true
 <img src="/images/logo_ynhm_2014.png"
  width="50"
  hspace="20"
- style="align:middle; float:left"> <span style="color:#3B528B">**Leclerc, C.**</span>, Bellard, C., Hoffmann, B.D. & Courchamp, F. “Climate change, sea-level rise, and conservation priorities: The case of the 35th biodiversity hotspot”. *1st Young Natural History scientists’ Meeting*, Paris, France. 12-13 February 2014. [![or1](https://img.shields.io/badge/figshare-s/5ef9f5d8cf9952d9c5f4-21908C.svg)](https://figshare.com/s/5ef9f5d8cf9952d9c5f4){:target="_blank"}
+ align="left"> <span style="color:#3B528B">**Leclerc, C.**</span>, Bellard, C., Hoffmann, B.D. & Courchamp, F. “Climate change, sea-level rise, and conservation priorities: The case of the 35th biodiversity hotspot”. *1st Young Natural History scientists’ Meeting*, Paris, France. 12-13 February 2014. [![or1](https://img.shields.io/badge/figshare-s/5ef9f5d8cf9952d9c5f4-21908C.svg)](https://figshare.com/s/5ef9f5d8cf9952d9c5f4){:target="_blank"}
