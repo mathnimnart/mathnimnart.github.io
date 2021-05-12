@@ -27,6 +27,9 @@ author_profile: true
     <br>
 
 
+<table><tr><td><img src="/images/logo_malaga_2019.jpeg"
+    width="50"> </td><td> Loading...</td></tr></table>
+
 ## <span style="color:#440154">**Oral presentations**</span>
 
 
