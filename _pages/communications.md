@@ -9,19 +9,19 @@ author_profile: true
 ------
 
 <img src="/images/Congress_4.jpg"
-    height="100"
+    height="50"
     hspace="20"
     style="float:left;"> 
 <img src="/images/Congress_3.jpg"
-    height="100"
+    height="50"
     hspace="20"
     style="float:left;"> 
 <img src="/images/Congress_2.png"
-    height="100"
+    height="50"
     hspace="20"
     style="float:left;"> 
 <img src="/images/Congress_1.png"
-    height="100"
+    height="50"
     hspace="20"
     style="float:left;">
 <br>
