@@ -9,21 +9,22 @@ author_profile: true
 ------
 
 <img src="/images/Congress_4.jpg"
-    width="100"
+    height="100"
     hspace="20"
     style="float:left;"> 
 <img src="/images/Congress_3.jpg"
-    width="100"
+    height="100"
     hspace="20"
     style="float:left;"> 
 <img src="/images/Congress_2.png"
-    width="100"
+    height="100"
     hspace="20"
     style="float:left;"> 
 <img src="/images/Congress_1.png"
-    width="100"
+    height="100"
     hspace="20"
-    style="float:left;"><br>
+    style="float:left;">
+<br>
 
 
 ## <span style="color:#440154">**Oral presentations**</span>
