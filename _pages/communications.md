@@ -19,7 +19,7 @@ author_profile: true
 <img src="/images/logo_ecla.png"
     width="50"
     hspace="20"
-    align="left"> <span style="color:#3B528B">**Leclerc, C.**</span>, Danis, P.-A., Reynaud, N., Frossard, V. & Sentis A. “Reconstructing the food webs in French lakes using data collected under the Water Framework Directive”. *Day of the Pole Research & Development on Lacustrine Ecosystems (ECLA) – OFB/INRAE/USMB*, virtual event. 27 November 2020. [![or5](https://img.shields.io/badge/figshare-s/644f98cd028bb56f5c76-21908C.svg)](https://figshare.com/s/644f98cd028bb56f5c76){:target="_blank"}
+    align="left"> <span style="color:#3B528B">**Leclerc, C.**</span>, Danis, P.-A., Reynaud, N., Frossard, V. & Sentis A. “Reconstructing the food webs in French lakes using data collected under the Water Framework Directive”. *Day of the Pole Research & Development on Lacustrine Ecosystems (ECLA)*, virtual event. 27 November 2020. [![or5](https://img.shields.io/badge/figshare-s/644f98cd028bb56f5c76-21908C.svg)](https://figshare.com/s/644f98cd028bb56f5c76){:target="_blank"}
 
 <img src="/images/logo_malaga_2019.png"
     width="50"
