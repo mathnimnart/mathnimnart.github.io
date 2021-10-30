@@ -10,7 +10,7 @@ author_profile: true
 
 ## <span style="color:#440154">**Peer-reviewed publications**</span>
 
-<span style="color:#3B528B">**Leclerc, C.**</span> , Magneville C. & Bellard, C. (Accepted). Conservation hotspots of insular endemic mammalian diversity at risk of extinction across a multidimensional approach. *Diversity and Distributions*, xx (xx): xx-xx. <br>
+<span style="color:#3B528B">**Leclerc, C.**</span> , Magneville C. & Bellard, C. (Accepted). Conservation hotspots of insular endemic mammalian diversity at risk of extinction across a multidimensional approach. *Diversity and Distributions*, xx (xx): xx-xx. [![DDI](https://img.shields.io/badge/R code-Github-5DC863.svg)](https://github.com/CamilleLeclerc/InsularHotspotsMultifacetedDiversity/tree/v1.0){:target="_blank"} <br>
 
 Marino, C., <span style="color:#3B528B">**Leclerc, C.**</span> & Bellard, C. (Accepted). Profiling insular vertebrates prone to biological invasions: what makes them vulnerable?. *Global Change Biology*, xx (xx): xx-xx. [![CG](https://img.shields.io/badge/R code-Github-5DC863.svg)](https://github.com/claramarino/FD_IAS_threatened_tetrapods/tree/v1.0){:target="_blank"} <br>
 
