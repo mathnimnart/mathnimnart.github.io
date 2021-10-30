@@ -10,6 +10,8 @@ author_profile: true
 
 ## <span style="color:#440154">**Peer-reviewed publications**</span>
 
+<span style="color:#3B528B">**Leclerc, C.**</span> , Magneville C. & Bellard, C. (Accepted). Conservation hotspots of insular endemic mammalian diversity at risk of extinction across a multidimensional approach. *Diversity and Distributions*, xx (xx): xx-xx. <br>
+
 Marino, C., <span style="color:#3B528B">**Leclerc, C.**</span> & Bellard, C. (Accepted). Profiling insular vertebrates prone to biological invasions: what makes them vulnerable?. *Global Change Biology*, xx (xx): xx-xx. [![CG](https://img.shields.io/badge/R code-Github-5DC863.svg)](https://github.com/claramarino/FD_IAS_threatened_tetrapods/tree/v1.0){:target="_blank"} <br>
 
 Bellard, C., Bernery, C. & <span style="color:#3B528B">**Leclerc, C.**</span> (2021). Looming extinctions due to invasive species: Irreversible loss of ecological strategy and evolutionary history. *Global Change Biology*, 27 (20): 4967-4979. [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.15771-21908C.svg)](https://onlinelibrary.wiley.com/doi/10.1111/gcb.15771){:target="_blank"} [![CG](https://img.shields.io/badge/R code-Github-5DC863.svg)](https://github.com/cbellard/FDPD_IAST){:target="_blank"} [![PR1](https://img.shields.io/badge/Press release [FR]-INEE CNRS -FDE725.svg)](http://www.cnrs.fr/fr/la-diversite-des-oiseaux-et-des-mammiferes-se-rarefie-avec-les-invasions-biologiques){:target="_blank"}<br>
