@@ -27,12 +27,12 @@ Leclerc *et al.* (2018). *Sci. Rep.* 8:6393. $|$ [![SR](https://img.shields.io/b
 
 ------
 
-## <span style="color:#440154">**Assessment of natural and anthropic environmental drivers on community food webs**</span>
+## <span style="color:#440154">**Assessment of natural and anthropic environmental drivers on community food-webs**</span>
 **Collaborators:** <a href="https://www.researchgate.net/profile/Victor-Frossard" target="_blank" style="color:#3B528B;">Victor Frossard</a>, <a href="https://arnaudsentis.com/" target="_blank" style="color:#3B528B;">Arnaud Sentis</a>
 
-Understanding whether and how environmental conditions may impact food web structure is central to our ability to predict how food webs will respond to global change. To apprehend these cornerstone questions, I focused my food webs research on freshwater ecosystems and particularly lakes. I am interested to explore the influence of natural and anthropic environmental variables on the structure of food webs by addressing several research questions. Here are some examples:
+Understanding whether and how environmental conditions may impact food-webs structure is central to our ability to predict how food-webs will respond to global change. To apprehend these cornerstone questions, I focused my research on freshwater ecosystems and more particularly on lakes. I am interested to explore the influence of natural and anthropic environmental variables on the structure of food-webs by addressing several research questions. Here are some examples:
 
-* How spatial patterns in food-web structure are associated with environmental gradients?  
-* How species, e.g. sensitive to global change, contribute to food-web structure?
+* How spatial patterns in food-webs structure are associated with environmental gradients?  
+* How species, e.g. sensitive to global change, contribute to food-webs structure?
 
-Based on the different outputs from patterns of food web structures, I am also interested to develop a functional indicator of the impact of global change, and particularly climatic, on communities and their resilience.
+Based on the different outputs from patterns of food-webs structure, I am also interested to develop a functional indicator of the impact of global change, and particularly climatic, on communities and their resilience.
