@@ -19,7 +19,7 @@ author_profile: true
 <img src="/images/logo_theomodive_2021.png"
     width="50"
     hspace="20"
-    align="left"> <span style="color:#3B528B">**Leclerc, C.**</span>, Frossard, V. & Sentis A. “Impact of environmental factors on lake food-webs structure”. *GDR TheoMoDive*, Aix-en-Provence, France. 22-24 November 2021. [![or5](https://img.shields.io/badge/figshare-s/d540f219ee9c52d592e6-21908C.svg)](https://figshare.com/s/d540f219ee9c52d592e6{:target="_blank"}  
+    align="left"> <span style="color:#3B528B">**Leclerc, C.**</span>, Frossard, V. & Sentis A. “Impact of environmental factors on lake food-webs structure”. *GDR TheoMoDive*, Aix-en-Provence, France. 22-24 November 2021. [![or5](https://img.shields.io/badge/figshare-s/d540f219ee9c52d592e6-21908C.svg)](https://figshare.com/s/d540f219ee9c52d592e6){:target="_blank"}  
 
 <img src="/images/logo_ecla.png"
     width="50"

@@ -46,16 +46,18 @@ Bellard, C., <span style="color:#3B528B">**Leclerc, C.**</span> & Courchamp, F. 
 
 ## <span style="color:#440154">**Technical reports**</span>
 
-<span style="color:#3B528B">**Leclerc, C.**</span>, Danis, P.-A., Reynaud, N., Frossard, V. & Sentis A. (2020). Réseaux trophiques des plans d’eau métropolitains : Reconstruction de la structure des réseaux trophiques à partir des données de suivi obtenues dans le cadre de la mise en application de la Directive Cadre sur l’Eau. *Rapport d’étude, OFB/INRAE/USMB/Pôle ECLA*, 35 pages.
+<span style="color:#3B528B">**Leclerc, C.**</span>, Danis, P.-A., Reynaud, N., Frossard, V. & Sentis A. (2021). Réseaux trophiques des plans d’eau métropolitains : Impact des facteurs environnementaux sur la structure des réseaux trophiques reconstruite à partir des données de suivi obtenues dans le cadre de la mise en application de la Directive Cadre sur l’Eau. *Rapport d’étude, OFB/INRAE/USMB/Pôle ECLA*, 38 pages.<br>
+
+<span style="color:#3B528B">**Leclerc, C.**</span>, Danis, P.-A., Reynaud, N., Frossard, V. & Sentis A. (2020). Réseaux trophiques des plans d’eau métropolitains : Reconstruction de la structure des réseaux trophiques à partir des données de suivi obtenues dans le cadre de la mise en application de la Directive Cadre sur l’Eau. *Rapport d’étude, OFB/INRAE/USMB/Pôle ECLA*, 35 pages.<br>
 
 ------
 
 ## <span style="color:#440154">**Book chapters**</span>
 
-Bellard, C., <span style="color:#3B528B">**Leclerc, C.**</span> & Courchamp, F. (2019), Case study 4: The effects of sea-level rise on habitats and species. In T.E. Lovejoy and L. Hannah (Eds.), *Biodiversity and Climate Change*, Yale University Press, pp. 125-127.
+Bellard, C., <span style="color:#3B528B">**Leclerc, C.**</span> & Courchamp, F. (2019), Case study 4: The effects of sea-level rise on habitats and species. In T.E. Lovejoy and L. Hannah (Eds.), *Biodiversity and Climate Change*, Yale University Press, pp. 125-127.<br>
 
 ------
 
 ## <span style="color:#440154">**Thesis manuscript**</span>
 
-<span style="color:#3B528B">**Leclerc, C.**</span> (2019), Biodiversité endémique insulaire face aux changements globaux : état des lieux dans un contexte de conservation. *Université Paris-Saclay*, 185 pages. [![PHD](https://img.shields.io/badge/theses.fr-2019SACLS507-21908C.svg)](http://theses.fr/2019SACLS507){:target="_blank"}
+<span style="color:#3B528B">**Leclerc, C.**</span> (2019), Biodiversité endémique insulaire face aux changements globaux : état des lieux dans un contexte de conservation. *Université Paris-Saclay*, 185 pages. [![PHD](https://img.shields.io/badge/theses.fr-2019SACLS507-21908C.svg)](http://theses.fr/2019SACLS507){:target="_blank"}<br>
