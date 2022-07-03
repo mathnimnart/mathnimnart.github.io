@@ -10,7 +10,7 @@ author_profile: true
 
 ## <span style="color:#440154">**Peer-reviewed publications**</span>
 
-Renault D., <span style="color:#3B528B">**Leclerc C.**</span>, Colleu M.A., Boutet A., Hotte H., Colinet H., Chown S.L. & Convey P. (Accepted). The rising threat of climate change for arthropods from Earth’s cold regions: Taxonomic rather than biogeographic status drives species sensitivity. *Global Change Biology*, xx (xx): xx-xx. <br>
+Renault D., <span style="color:#3B528B">**Leclerc C.**</span>, Colleu M.A., Boutet A., Hotte H., Colinet H., Chown S.L. & Convey P. (Accepted). The rising threat of climate change for arthropods from Earth’s cold regions: Taxonomic rather than conservation status drives species sensitivity. *Global Change Biology*, xx (xx): xx-xx. <br>
 
 <span style="color:#3B528B">**Leclerc C.**</span>, Magneville C. & Bellard C. (Early view). Conservation hotspots of insular endemic mammalian diversity at risk of extinction across a multidimensional approach. *Diversity and Distributions*, xx (xx): xx-xx. [![DDI](https://img.shields.io/badge/DOI-10.1111/ddi.13441-21908C.svg)](https://onlinelibrary.wiley.com/doi/10.1111/ddi.13441){:target="_blank"} [![DDI](https://img.shields.io/badge/R code-Github-5DC863.svg)](https://github.com/CamilleLeclerc/InsularHotspotsMultifacetedDiversity/tree/v1.0){:target="_blank"} <br>
 
