@@ -28,6 +28,10 @@ Leclerc *et al.* (2018). *Sci. Rep.* 8:6393. $|$ [![SR](https://img.shields.io/b
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Global change and biodiversity – vulnerability assessment**</span></span>
 
+<img src="/images/gcbiodivvulnerability_band.png"
+    class="center"
+    height="100">
+
 As anthropogenic environmental changes increasingly threaten biodiversity and ecosystem functioning worldwide, assessing the vulnerability of species to threats, and in particular to climate change, is a prerequisite for developing effective strategies for keeping them. To address this challenge, I apply biodiversity vulnerability approaches based on a combination of components including exposure, sensitivity and adaptive capacity.
 
 **Selected publications:**  
