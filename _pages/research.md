@@ -14,8 +14,7 @@ author_profile: true
 
 <img src="/images/gcbiodivpatternsimpacts_band.png"
     class="center"
-    height="100"
-    width="auto">
+    width="50%" height="50%" alt="A 100x100 image">
 
 As the rate and magnitude of the current biodiversity crisis accelerate, a greater understanding of the threatening processes impacting biodiversity is required to guide effective conservation strategies. To tackle this challenge, I explore, across large spatial scales, biodiversity patterns in the current and future context of global changes by addressing the questions of how threats co-occurred and interacted with diversity, or the potential consequences of threatening processes on the multiple dimensions of biodiversity.
 
@@ -45,8 +44,7 @@ Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ [![NC](https://img.shields
 
 <img src="/images/envcondcommstruct_band.png"
     class="center"
-    height="100"
-    width="auto">
+    sizes="((min-width: 30em) and (max-width: 40em)) 30em">
     
 Understanding whether and how environmental conditions may impact food-webs structure is central to our ability to predict how food-webs will respond to global change. To address this challenge, I explore the influence of natural and anthropic environmental variables (and particularly temperature) on the structure of food-webs by addressing several research questions of how environmental factors shape food-webs structure/stability and community size structure.
 
