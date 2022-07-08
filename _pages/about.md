@@ -11,7 +11,7 @@ redirect_from:
 
 Currently Post-doctoral Researcher at <a href="https://www6.paca.inrae.fr/recover/" target="_blank" style="color:#3B528B;">INRAE – UMR RECOVER</a> in Aix-en-provence with a particular interest in island or island-like ecosystems. The overarching aim of my research is to investigate the impacts of global changes on biodiversity patterns of such systems at a macroecological scale to guide conservation strategies.
 
-Interests:
+Interests:  
 Macroecology ; Global Changes ; Multiple facets of biodiversity ; Vulnerability assessment ; Conservation Biology ; Community Ecology ; Biogeography
 
 For more information about my research experience, see my <a href="https://camilleleclerc.github.io/cv/" target="_blank" style="color:#3B528B;">curriculum vitæ</a>.
