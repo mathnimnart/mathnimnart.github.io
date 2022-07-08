@@ -14,7 +14,8 @@ author_profile: true
 
 <img src="/images/gcbiodivpatternsimpacts_band.png"
     class="center"
-    height="500">
+    height="100"
+    width="auto">
 
 As the rate and magnitude of the current biodiversity crisis accelerate, a greater understanding of the threatening processes impacting biodiversity is required to guide effective conservation strategies. To tackle this challenge, I explore, across large spatial scales, biodiversity patterns in the current and future context of global changes by addressing the questions of how threats co-occurred and interacted with diversity, or the potential consequences of threatening processes on the multiple dimensions of biodiversity.
 
