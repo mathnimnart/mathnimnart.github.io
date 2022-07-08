@@ -31,7 +31,7 @@ Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ [![NC](https://img.shields
 
 ------
 
-## <span style="color:#440154">**Environmental conditions and community structure – patterns and impacts**</span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Environmental conditions and community structure – patterns and impacts**</span></span>
 Understanding whether and how environmental conditions may impact food-webs structure is central to our ability to predict how food-webs will respond to global change. To apprehend these cornerstone questions, I focused my research on freshwater ecosystems and more particularly on lakes. I am interested to explore the influence of natural and anthropic environmental variables on the structure of food-webs by addressing several research questions. Here are some examples:
 
 * How spatial patterns in food-webs structure are associated with environmental gradients?  

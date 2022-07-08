@@ -8,7 +8,7 @@ author_profile: true
 
 ------
 
-## <span style="color:#440154">**Peer-reviewed publications**</span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Peer-reviewed publications**</span></span>
 
 Renault D., <span style="color:#3B528B">**Leclerc C.**</span>, Colleu M.A., Boutet A., Hotte H., Colinet H., Chown S.L. & Convey P. (Accepted). The rising threat of climate change for arthropods from Earth’s cold regions: Taxonomic rather than native status drives species sensitivity. *Global Change Biology*, xx (xx): xx-xx. [![CG](https://img.shields.io/badge/R code-Github-5DC863.svg)](https://github.com/CamilleLeclerc/SensitivitySubantarcticInvertebratesWarming/tree/v1.0){:target="_blank"} <br>
 
@@ -46,7 +46,7 @@ Bellard C., <span style="color:#3B528B">**Leclerc C.**</span> & Courchamp F. (20
 
 ------
 
-## <span style="color:#440154">**Technical reports**</span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Technical reports**</span></span>
 
 <span style="color:#3B528B">**Leclerc C.**</span>, Danis P.-A., Reynaud N., Frossard V. & Sentis A. (2021). Réseaux trophiques des plans d’eau métropolitains : Impact des facteurs environnementaux sur la structure des réseaux trophiques reconstruite à partir des données de suivi obtenues dans le cadre de la mise en application de la Directive Cadre sur l’Eau. *Rapport d’étude, OFB/INRAE/USMB/Pôle ECLA*, 38 pages.<br>
 
@@ -54,7 +54,7 @@ Bellard C., <span style="color:#3B528B">**Leclerc C.**</span> & Courchamp F. (20
 
 ------
 
-## <span style="color:#440154">**Book chapters**</span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Book chapters**</span></span>
 
 <span style="color:#3B528B">**Leclerc C.**</span>, Courchamp F. & Bellard C. (accepted). Vulnérabilité des milieux insulaires aux changements globaux. In A. Pomade *et al.* (Eds.), *Vulnérabilités environnementales : perspectives pluridisciplinaires*, L'Harmattan.<br>
 
@@ -62,6 +62,6 @@ Bellard C., <span style="color:#3B528B">**Leclerc C.**</span> & Courchamp F. (20
 
 ------
 
-## <span style="color:#440154">**Thesis manuscript**</span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Thesis manuscript**</span></span>
 
 <span style="color:#3B528B">**Leclerc C.**</span> (2019). Biodiversité endémique insulaire face aux changements globaux : état des lieux dans un contexte de conservation. *Université Paris-Saclay*, 185 pages. [![PHD](https://img.shields.io/badge/theses.fr-2019SACLS507-21908C.svg)](http://theses.fr/2019SACLS507){:target="_blank"}<br>

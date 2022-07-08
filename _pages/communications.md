@@ -13,7 +13,7 @@ author_profile: true
 
 ------
 
-## <span style="color:#440154">**Oral presentations**</span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Oral presentations**</span></span>
 
 
 <img src="/images/logo_theomodive_2021.png"
@@ -43,7 +43,7 @@ author_profile: true
 
 ------
 
-## <span style="color:#440154">**Posters**</span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Posters**</span></span>
 
 <img src="/images/logo_ynhm_2017.jpg"
   width="50"
