@@ -4,6 +4,7 @@ title: "RESEARCH INTERESTS"
 permalink: /research/
 author_profile: true
 ---
+<style> .aligncenter {text-align: center;} </style>
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 # **BIODIVERSITY & GLOBAL CHANGE DRIVERS**
@@ -27,11 +28,11 @@ Leclerc *et al.* (2018). *Sci. Rep.* 8:6393. $|$ [![SR](https://img.shields.io/b
 ------
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Global change and biodiversity – vulnerability assessment**</span></span>
-
+<p class="aligncenter">
 <img src="/images/gcbiodivvulnerability_band.png"
-    class="center"
-    height="100"
-    width="auto">
+    alt="centered image"
+    width="50%" height="50%" alt="A 100x100 image">
+</p>
 
 As anthropogenic environmental changes increasingly threaten biodiversity and ecosystem functioning worldwide, assessing the vulnerability of species to threats, and in particular to climate change, is a prerequisite for developing effective strategies for keeping them. To address this challenge, I apply biodiversity vulnerability approaches based on a combination of components including exposure, sensitivity and adaptive capacity.
 
@@ -44,7 +45,7 @@ Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ [![NC](https://img.shields
 
 <img src="/images/envcondcommstruct_band.png"
     class="center"
-    sizes="((min-width: 30em) and (max-width: 40em)) 30em">
+    width="50%" height="50%" alt="A 100x100 image">
     
 Understanding whether and how environmental conditions may impact food-webs structure is central to our ability to predict how food-webs will respond to global change. To address this challenge, I explore the influence of natural and anthropic environmental variables (and particularly temperature) on the structure of food-webs by addressing several research questions of how environmental factors shape food-webs structure/stability and community size structure.
 
