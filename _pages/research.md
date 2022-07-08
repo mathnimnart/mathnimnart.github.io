@@ -43,6 +43,11 @@ Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ [![NC](https://img.shields
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Environmental conditions and community structure – patterns and impacts**</span></span>
 
+<img src="/images/envcondcommstruct_band.png"
+    class="center"
+    height="100"
+    width="auto">
+    
 Understanding whether and how environmental conditions may impact food-webs structure is central to our ability to predict how food-webs will respond to global change. To address this challenge, I explore the influence of natural and anthropic environmental variables (and particularly temperature) on the structure of food-webs by addressing several research questions of how environmental factors shape food-webs structure/stability and community size structure.
 
 **Selected publications:**
