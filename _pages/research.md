@@ -42,7 +42,7 @@ Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ [![NC](https://img.shields
 
 ------
 
-## <span style="font-variant:small-caps;"><span style="color:#440154">**Environmental conditions and community structure – patterns and impacts**</span></span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Global change and community structure – patterns and impacts**</span></span>
 <p class="aligncenter">
 <img src="/images/envcondcommstruct_band.png"
     alt="centered image"
