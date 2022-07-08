@@ -35,7 +35,7 @@ Leclerc *et al.* (2018). *Sci. Rep.* 8:6393. $|$ [![SR](https://img.shields.io/b
     width="50%" height="50%" alt="A 100x100 image">
 </p>
 
-As anthropogenic environmental changes increasingly threaten biodiversity and ecosystem functioning worldwide, assessing the vulnerability of species to threats, and in particular to climate change, is a prerequisite for developing effective strategies for keeping them. To address this challenge, I apply biodiversity vulnerability approaches based on a combination of components including exposure, sensitivity and adaptive capacity.
+As anthropogenic environmental changes increasingly threaten biodiversity and ecosystem functioning worldwide, assessing the vulnerability of species and ecosystems to threats, and in particular to climate change, is a prerequisite for developing effective strategies for keeping them. To address this challenge, I apply biodiversity vulnerability approaches based on a combination of components including exposure, sensitivity and adaptive capacity.
 
 **Selected publications:**  
 Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ [![NC](https://img.shields.io/badge/DOI-10.1038/s41467--020--18740--x-21908C.svg)](https://doi.org/10.1038/s41467-020-18740-x){:target="_blank"}<br>
@@ -49,7 +49,7 @@ Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ [![NC](https://img.shields
     width="40%" height="40%" alt="A 100x100 image">
 </p>
 
-Understanding whether and how environmental conditions may impact food-webs structure is central to our ability to predict how food-webs will respond to global change. To address this challenge, I explore the influence of natural and anthropic environmental variables (and particularly temperature) on the structure of food-webs by addressing several research questions of how environmental factors shape food-webs structure/stability and community size structure.
+Understanding whether and how environmental conditions may impact species communities, and particularly their food-webs structure, is central to our ability to predict how communities and their interactions will respond to global change. To address this challenge, I explore the influence of natural and anthropic environmental variables (and particularly temperature) on the structure of food-webs by addressing several research questions around the link between environmental factors and food-webs structure/stability as well as community size structure.
 
 **Selected publications:**  
 In progress...
