@@ -18,7 +18,7 @@ author_profile: true
     width="50%" height="50%" alt="A 100x100 image">
 </p>
 
-As the rate and magnitude of the current biodiversity crisis accelerate, a greater understanding of the threatening processes impacting biodiversity is required to guide effective conservation strategies. To tackle this challenge, I explore, across large spatial scales, biodiversity patterns in the current and future context of global changes by addressing the questions of how threats co-occurred and interacted with diversity, or the potential consequences of threatening processes on the multiple dimensions of biodiversity.
+As the rate and magnitude of the current biodiversity crisis accelerate, a greater understanding of the threatening processes impacting biodiversity is required to guide effective conservation strategies. To tackle this challenge, I explore, across large spatial scales, biodiversity patterns in the current and future context of global changes by addressing the questions of how threats co-occurred and interacted with diversity, or the potential consequences of threatening processes on the multiple dimensions of biodiversity (i.e. taxonomic, functional, and phylogenetic diversity).
 
 **Selected publications:**  
 Leclerc *et al.* (Early view). *Divers. Distrib.* xx (xx): xx-xx. $|$
@@ -35,9 +35,11 @@ Leclerc *et al.* (2018). *Sci. Rep.* 8:6393. $|$ [![SR](https://img.shields.io/b
     width="50%" height="50%" alt="A 100x100 image">
 </p>
 
-As anthropogenic environmental changes increasingly threaten biodiversity and ecosystem functioning worldwide, assessing the vulnerability of species and ecosystems to threats, and in particular to climate change, is a prerequisite for developing effective strategies for keeping them. To address this challenge, I apply biodiversity vulnerability approaches based on a combination of components including exposure, sensitivity and adaptive capacity.
+As anthropogenic environmental changes increasingly threaten biodiversity and ecosystem functioning worldwide, assessing the vulnerability (through exposure, sensitivity, and adaptive capacity) of species and ecosystems to threats, and in particular to climate change, is a prerequisite for developing effective strategies for keeping them. To address this challenge, I assess together or alone the different vulnerability components (i.e. exposure, sensitivity and adaptive capacity), and apply biodiversity vulnerability approaches based on a combination of these components.
 
 **Selected publications:**  
+Renault *et al.* (2022) *Glob. Chang. Biol.*, 28 (20): 5914-5927. [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.16338-21908C.svg)](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16338){:target="_blank"}<br>
+Marino *et al.* (2022) *Glob. Chang. Biol.*, 28 (3): 1077-1090. $|$ [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.15941-21908C.svg)](https://onlinelibrary.wiley.com/doi/10.1111/gcb.15941){:target="_blank"}<br>
 Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ [![NC](https://img.shields.io/badge/DOI-10.1038/s41467--020--18740--x-21908C.svg)](https://doi.org/10.1038/s41467-020-18740-x){:target="_blank"}<br>
 
 ------
