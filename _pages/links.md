@@ -23,5 +23,4 @@ author_profile: true
 [![AL](https://img.shields.io/badge/Adeline Loyau-personal website-3B528B.svg)](http://www.adeline-loyau.net/){:target="_blank"}<br>
 [![DR](https://img.shields.io/badge/David Renault-personal website-3B528B.svg)](https://sites.google.com/view/david-renault/home){:target="_blank"}<br> 
 [![DS](https://img.shields.io/badge/Dirk S. Schmeller-personal website-3B528B.svg)](http://dirk.die-schmellers.de/Publications/publications_new.htm){:target="_blank"}<br> 
-[![AS](https://img.shields.io/badge/Arnaud Sentis-personal website-3B528B.svg)](https://arnaudsentis.com/){:target="_blank"}<br> 
-[![SV](https://img.shields.io/badge/Sébastien Villéger-personal website-3B528B.svg)](http://villeger.sebastien.free.fr/){:target="_blank"}<br>
+[![AS](https://img.shields.io/badge/Arnaud Sentis-personal website-3B528B.svg)](https://arnaudsentis.com/){:target="_blank"}<br>
