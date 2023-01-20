@@ -7,11 +7,14 @@ author_profile: true
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 ------
+### December 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So glad to be part of the editorial board! Looking forward to contribute to <a href="https://twitter.com/ESAMonographs?ref_src=twsrc%5Etfw">@ESAMonographs</a>. Thanks for your trust! <a href="https://t.co/8eQQ0NixEZ">https://t.co/8eQQ0NixEZ</a></p>&mdash; Camille Leclerc (@_LeclercCamille) <a href="https://twitter.com/_LeclercCamille/status/1598746564603715585?ref_src=twsrc%5Etfw">December 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 ### November 2021
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨🚨🚨<br>The very first paper of my PhD thesis is out 🥳<br>If you want to know more about the profile of vertebrate victims of biological invasions, follow the thread &amp; check the paper! <a href="https://t.co/yfU2iH7qLF">https://t.co/yfU2iH7qLF</a> <a href="https://t.co/OjzfS4y9Ud">pic.twitter.com/OjzfS4y9Ud</a></p>&mdash; Clara Marino (@cl_marino) <a href="https://twitter.com/cl_marino/status/1460590173545287686?ref_src=twsrc%5Etfw">November 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Almost 2-yr after my PhD defence, my fourth and last PhD paper is out today in <a href="https://twitter.com/consbiog?ref_src=twsrc%5Etfw">@consbiog</a>.<br>Thanks to my amazing co-authors <a href="https://twitter.com/Cml_Magneville?ref_src=twsrc%5Etfw">@Cml_Magneville</a> and <a href="https://twitter.com/Celine_Bellard?ref_src=twsrc%5Etfw">@Celine_Bellard</a> for being so patient and for motivating me to finish this job.<br>If you want to know more it, check the tweet below ⬇️ <a href="https://t.co/Eg13uNlMve">https://t.co/Eg13uNlMve</a></p>&mdash; Camille Leclerc (@_LeclercCamille) <a href="https://twitter.com/_LeclercCamille/status/1460184600504848386?ref_src=twsrc%5Etfw">November 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ---
 ### August 2021
