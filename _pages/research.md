@@ -22,7 +22,7 @@ As the rate and magnitude of the current biodiversity crisis accelerate, a great
 
 **Selected publications:**  
 Leclerc *et al.* (2022). *Divers. Distrib.* 28 (12): 2754-2764. $|$
-[![DDI](https://img.shields.io/badge/DOI-10.1111/ddi.13441-21908C.svg)](https://onlinelibrary.wiley.com/doi/10.1111/ddi.13441){:target="_blank"}<br>
+[![DDI](https://img.shields.io/badge/DOI-10.1111/ddi.13441-21908C.svg)](https://doi.org/10.1111/ddi.13441){:target="_blank"}<br>
 Leclerc *et al.* (2020). *Divers. Distrib.* 26 (4): 402-414. $|$ [![DD](https://img.shields.io/badge/DOI-10.1111/ddi.13024-21908C.svg)](https://doi.org/10.1111/ddi.13024){:target="_blank"}<br>
 Leclerc *et al.* (2018). *Sci. Rep.* 8:6393. $|$ [![SR](https://img.shields.io/badge/DOI-10.1038/s41598--018--24733--0-21908C.svg)](https://doi.org/10.1038/s41598-018-24733-0){:target="_blank"}<br>
 
@@ -38,8 +38,8 @@ Leclerc *et al.* (2018). *Sci. Rep.* 8:6393. $|$ [![SR](https://img.shields.io/b
 As anthropogenic environmental changes increasingly threaten biodiversity and ecosystem functioning worldwide, assessing the vulnerability (through exposure, sensitivity, and adaptive capacity) of species and ecosystems to threats, and in particular to climate change, is a prerequisite for developing effective strategies for keeping them. To address this challenge, I assess together or alone the different vulnerability components (i.e. exposure, sensitivity and adaptive capacity), and apply biodiversity vulnerability approaches based on a combination of these components.
 
 **Selected publications:**  
-Renault *et al.* (2022) *Glob. Chang. Biol.*, 28 (20): 5914-5927. [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.16338-21908C.svg)](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16338){:target="_blank"}<br>
-Marino *et al.* (2022) *Glob. Chang. Biol.*, 28 (3): 1077-1090. $|$ [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.15941-21908C.svg)](https://onlinelibrary.wiley.com/doi/10.1111/gcb.15941){:target="_blank"}<br>
+Renault *et al.* (2022) *Glob. Chang. Biol.*, 28 (20): 5914-5927. [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.16338-21908C.svg)](https://doi.org/10.1111/gcb.16338){:target="_blank"}<br>
+Marino *et al.* (2022) *Glob. Chang. Biol.*, 28 (3): 1077-1090. $|$ [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.15941-21908C.svg)](https://doi.org/10.1111/gcb.15941){:target="_blank"}<br>
 Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ [![NC](https://img.shields.io/badge/DOI-10.1038/s41467--020--18740--x-21908C.svg)](https://doi.org/10.1038/s41467-020-18740-x){:target="_blank"}<br>
 
 ------
@@ -54,4 +54,4 @@ Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ [![NC](https://img.shields
 Understanding whether and how environmental conditions may impact species communities, and particularly their food-webs structure, is central to our ability to predict how communities and their interactions will respond to global change. To address this challenge, I explore the influence of natural and anthropogenic environmental variables (and particularly temperature) on the structure of communities by addressing several research questions around the link between environmental factors and food-webs structure/stability as well as community size structure.
 
 **Selected publications:**  
-In progress...
+Leclerc *et al.* (accepted) *Glob. Chang. Biol.*, XX (XX): XX-XX. [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.16642-21908C.svg)](https://doi.org/10.1111/gcb.16642){:target="_blank"}<br>
