@@ -54,4 +54,4 @@ Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ [![NC](https://img.shields
 Understanding whether and how environmental conditions may impact species communities, and particularly their food-webs structure, is central to our ability to predict how communities and their interactions will respond to global change. To address this challenge, I explore the influence of natural and anthropogenic environmental variables (and particularly temperature) on the structure of communities by addressing several research questions around the link between environmental factors and food-webs structure/stability as well as community size structure.
 
 **Selected publications:**  
-Leclerc *et al.* (accepted) *Glob. Chang. Biol.*, XX (XX): XX-XX. [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.16642-21908C.svg)](https://doi.org/10.1111/gcb.16642){:target="_blank"}<br>
+Leclerc *et al.* (early view) *Glob. Chang. Biol.*, XX (XX): XX-XX. [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.16642-21908C.svg)](https://doi.org/10.1111/gcb.16642){:target="_blank"}<br>
