@@ -11,7 +11,7 @@ author_profile: true
 
 ------
 
-## <span style="font-variant:small-caps;"><span style="color:#440154">**Patterns of global change and potential impacts on biodiversity**</span></span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Patterns of global change and potential consequences on biodiversity**</span></span>
 <p class="aligncenter">
 <img src="/images/gcbiodivpatternsimpacts_band.png"
     alt="centered image"
