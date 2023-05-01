@@ -11,7 +11,7 @@ author_profile: true
 
 ------
 
-## <span style="font-variant:small-caps;"><span style="color:#440154">**Global change and biodiversity – patterns and impacts**</span></span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Patterns of global change and potential impacts on biodiversity**</span></span>
 <p class="aligncenter">
 <img src="/images/gcbiodivpatternsimpacts_band.png"
     alt="centered image"
@@ -28,7 +28,7 @@ Leclerc *et al.* (2018). *Sci. Rep.* 8:6393. $|$ [![SR](https://img.shields.io/b
 
 ------
 
-## <span style="font-variant:small-caps;"><span style="color:#440154">**Global change and biodiversity – vulnerability assessment**</span></span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Biodiversity responses and vulnerability assessment to global change**</span></span>
 <p class="aligncenter">
 <img src="/images/gcbiodivvulnerability_band.png"
     alt="centered image"
@@ -44,7 +44,7 @@ Leclerc *et al.* (2020). *Nat. Commun.* 11: 4943. $|$ [![NC](https://img.shields
 
 ------
 
-## <span style="font-variant:small-caps;"><span style="color:#440154">**Global change and community structure – patterns and impacts**</span></span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Structure of ecological networks in the context of global change**</span></span>
 <p class="aligncenter">
 <img src="/images/envcondcommstruct_band.png"
     alt="centered image"
