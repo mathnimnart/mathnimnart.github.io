@@ -8,6 +8,11 @@ author_profile: true
 
 ------
 
+<img src="/images/outreach_band.png"
+    class="center">
+
+------
+
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Communications**</span></span>
 
 * Animation of a stand on aquatic food web research in mesocosms for the general public. *Journée Mondiale de l'Eau 2023 - Porte ouverte SCP/INRAE*, Aix-en-Provence, France. March 26, 2023.
