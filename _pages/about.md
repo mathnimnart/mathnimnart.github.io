@@ -14,10 +14,12 @@ I am a post-doctoral researcher at <a href="https://www6.paca.inrae.fr/recover/"
 My research addresses fundamental questions at the interface of community ecology, macroecology, and conservation biology. I investigate how global change affects patterns of biodiversity and how this can be used for conservation. <br>  
 
 I investigate these questions by combining open-access databases on environmental, trait, and phylogenetic characteristics, data from the field or from experiments, and statistical modeling to integrate and synthesize data, particularly on climate and animals. Most of this work focuses on islands or island-like ecosystems.
-
+  
+  
 *Key words:*<br>
-biogeography; community ecology ; conservation biology ; food-webs, global changes ; macroecology ; multiple facets of biodiversity ; vulnerability assessment  
-
+biogeography; community ecology ; conservation biology ; food-webs ; global changes ; macroecology ; multiple facets of biodiversity ; vulnerability assessment  
+  
+  
 For more information about my research experience, please see my <a href="https://camilleleclerc.github.io/cv/" target="_blank" style="color:#3B528B;">curriculum vitæ</a>.
 
 Feel free to contact me for any inquiries or potential collaborations in any research topic.
