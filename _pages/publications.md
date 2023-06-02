@@ -61,7 +61,7 @@ Bellard C., <span style="color:#3B528B">**Leclerc C.**</span> & Courchamp F. (20
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Book chapters**</span></span>
 
-<span style="color:#3B528B">**Leclerc C.**</span>, Courchamp F. & Bellard C. (2023). Vulnérabilité des milieux insulaires aux changements globaux. In A. Pomade *et al.* (Eds.), *Vulnérabilités environnementales : perspectives pluridisciplinaires*, L'Harmattan. [![BH](https://img.shields.io/badge/Book-L'Harmattan-21908C.svg)](https://www.editions-harmattan.fr/livre-vulnerabilite_s_environnementale_s_perspectives_pluridisciplinaires_rahma_bentirou_mathlouthi_adelie_pomade_sylvia_becerra-9782140344763-76799.html){:target="_blank"}<br>
+<span style="color:#3B528B">**Leclerc C.**</span>, Courchamp F. & Bellard C. (2023). Vulnérabilité des milieux insulaires aux changements globaux. In A. Pomade *et al.* (Eds.), *Vulnérabilités environnementales : perspectives pluridisciplinaires*, L'Harmattan, pp. 147-163. [![BH](https://img.shields.io/badge/Book-L'Harmattan-21908C.svg)](https://www.editions-harmattan.fr/livre-vulnerabilite_s_environnementale_s_perspectives_pluridisciplinaires_rahma_bentirou_mathlouthi_adelie_pomade_sylvia_becerra-9782140344763-76799.html){:target="_blank"}<br>
 
 Bellard C., <span style="color:#3B528B">**Leclerc C.**</span> & Courchamp F. (2019). Case study 4: The effects of sea-level rise on habitats and species. In T.E. Lovejoy and L. Hannah (Eds.), *Biodiversity and Climate Change*, Yale University Press, pp. 125-127. [![BYU](https://img.shields.io/badge/Book-Yale University Press-21908C.svg)](https://yalebooks.yale.edu/book/9780300206111/biodiversity-and-climate-change/){:target="_blank"}<br>
 
