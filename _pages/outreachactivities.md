@@ -24,6 +24,8 @@ author_profile: true
 
 * Interview about the discovery of new species still today and the urgency of preserving their ecosystems. Interview conducted by Virginie Lenk (Tamedia SA) on December 06, 2022. <a href="https://www.24heures.ch/les-nouvelles-especes-espoir-pour-la-biodiversite-301070641391" target="_blank" style="color:#21908C;">*COP15 de Montréal : Les nouvelles espèces, espoir pour la biodiversité?*</a>.
 
+* Portraits of doctoral students at the University of Paris-Saclay - Goupy Fund. April 05, 2019. <a href="https://mediatheque.universite-paris-saclay.fr/s/mediatheque/item/81015#?xywh=-2575%2C-1%2C11148%2C6000&cv=" target="_blank" style="color:#21908C;">*Camille Leclerc, doctorante en biodiversité*</a>.
+
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Publications**</span></span>
 
