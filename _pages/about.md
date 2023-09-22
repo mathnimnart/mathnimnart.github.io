@@ -13,7 +13,7 @@ I am a post-doctoral researcher at <a href="https://www6.paca.inrae.fr/recover/"
 
 My research addresses fundamental questions at the interface of community ecology, macroecology, and conservation biology. I investigate how global change affects patterns of biodiversity and how this can be used for conservation. <br>  
 
-I investigate these questions by combining open-access databases on environmental, trait, and phylogenetic characteristics, data from the field or from experiments, and statistical modeling to integrate and synthesize data, particularly on climate and animals. Most of this work focuses on islands or island-like ecosystems. <br> <br>
+I investigate these questions by combining open-access databases of environmental, trait, and phylogenetic characteristics, data from the field or from experiments, and statistical modeling to integrate and synthesize data. Most of this work focuses on islands or island-like ecosystems (e.g. lakes). <br> <br>
   
   
 *Key words:*<br>
