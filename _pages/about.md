@@ -17,7 +17,7 @@ I investigate these questions by combining open-access databases of environmenta
   
   
 *Key words:*<br>
-biogeography; community ecology ; conservation biology ; food-webs ; global changes ; macroecology ; multiple facets of biodiversity ; vulnerability assessment <br> <br>
+biogeography; community ecology ; conservation biology ; food-web ecology ; global changes ; macroecology ; multiple facets of biodiversity ; vulnerability assessment <br> <br>
   
   
 For more information about my research experience, please see my <a href="https://camilleleclerc.github.io/cv/" target="_blank" style="color:#3B528B;">curriculum vitæ</a>. <br>
