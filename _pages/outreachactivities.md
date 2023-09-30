@@ -17,7 +17,7 @@ author_profile: true
 
 * Animation of a stand on aquatic food web research in mesocosms for the general public. *Journée Mondiale de l'Eau 2023 - Porte ouverte SCP/INRAE*, Aix-en-Provence, France. March 26, 2023.
 
-* Discussion with high school and college students. *Les rencontres inspirantes du Tutorat de l’École Centrale Marseille - Projet des lycéens et collégiens*, Marseille, France. February 01, 2013.
+* Discussion with high school and college students. *Les rencontres inspirantes du Tutorat de l’École Centrale Marseille - Projet des lycéens et collégiens*, Marseille, France. February 01, 2023.
 
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Interviews**</span></span>
