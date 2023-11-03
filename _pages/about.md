@@ -9,11 +9,11 @@ redirect_from:
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
-I am a post-doctoral researcher at <a href="https://www6.paca.inrae.fr/recover/" target="_blank" style="color:#3B528B;">INRAE – UMR RECOVER</a> working on the structure of ecological networks and environmental gradients in lakes. <br> 
+I am a post-doctoral researcher at <a href="https://geolab.uca.fr/" target="_blank" style="color:#3B528B;">CNRS – UMR GEOLAB</a> working on the structure of ecological networks and environmental gradients in marshes. <br> 
 
 My research addresses fundamental questions at the interface of community ecology, macroecology, and conservation biology. I investigate how global change affects patterns of biodiversity and how this can be used for conservation. <br>  
 
-I investigate these questions by combining open-access databases of environmental, trait, and phylogenetic characteristics, data from the field or from experiments, and statistical modeling to integrate and synthesize data. Most of this work focuses on islands or island-like ecosystems (e.g. lakes). <br> <br>
+I investigate these questions by combining open-access databases of environmental, trait, trophic interaction, and phylogenetic characteristics, data from the field or from experiments, and statistical modeling to integrate and synthesize data. Most of this work focuses on islands or island-like ecosystems (e.g. lakes). <br> <br>
   
   
 *Key words:*<br>
