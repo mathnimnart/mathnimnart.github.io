@@ -36,7 +36,7 @@ Leclerc *et al.* (2018). *Sci. Rep.* 8:6393. $|$ [![SR](https://img.shields.io/b
     width="50%" height="50%" alt="A 100x100 image">
 </p>
 
-Understanding whether and how environmental conditions can affect biodiversity is central to predicting how biodiversity will respond to global change. To address this challenge, I investigate the influence of natural and anthropogenic environmental variables (particularly temperature) on biodiversity by addressing several research questions on the link between environmental factors and biodiversity, particularly food web structure/stability and community size structure.
+Understanding whether and how environmental conditions can affect biodiversity is central to predicting how biodiversity will respond to global change. To address this challenge, I investigate the influence of natural and anthropogenic environmental variables on biodiversity by addressing several research questions on the link between environmental factors and biodiversity.
 
 
 **Selected publications:**  
