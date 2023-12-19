@@ -21,11 +21,20 @@ author_profile: true
     hspace="20"
     align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Pricing strategy for dual-channel retailing using a stochastic attraction-demand model”. *PGMO Days 2023 - Gaspard Monge program for Optimization, Operations Research and their interactions with Data Science*, EDF Lab Paris-Saclay, Palaiseau, France. 28-29 November 2023.
 
-
 <img src="/images/VMC2023.JPG"
     width="50"
     hspace="20"
-    align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Pricing strategies for dual channels retailers with stochastic attraction demand model”. *10th Vietnam Mathematical Congress*, Da Nang, Vietnam. 8-12 August 2023.  
+    align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Pricing strategies for dual channels retailers with stochastic attraction demand model”. *10th Vietnam Mathematical Congress*, Da Nang, Vietnam. 8-12 August 2023.
+
+<img src="/images/logo_roadef.png"
+    width="50"
+    hspace="20"
+    align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “A data-driven based approach for newsvendor problem subject to inventory inaccuracy”. *24th annual congress of the French Society for Operational Research and Decision Support*, Rennes, France. 20-23 February 2023.
+
+
+
+
+
 
 
 
