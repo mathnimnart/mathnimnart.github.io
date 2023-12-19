@@ -25,7 +25,7 @@ author_profile: true
 <img src="/images/VMC2023.JPG"
     width="50"
     hspace="20"
-    align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Pricing strategies for dual channels retailers with stochastic attraction demand model”. *10th Vietnam Mathematical Congress*, Da Nang, Vietnam. 08-1é August 2023.  
+    align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Pricing strategies for dual channels retailers with stochastic attraction demand model”. *10th Vietnam Mathematical Congress*, Da Nang, Vietnam. 8-12 August 2023.  
 
 
 
