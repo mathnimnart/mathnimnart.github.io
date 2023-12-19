@@ -8,7 +8,7 @@ author_profile: true
 
 ------
 
-<img src="/images/conf_band.png"
+<img src="/images/conf_band.JPG"
     class="center">
 
 ------
