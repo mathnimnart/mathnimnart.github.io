@@ -16,10 +16,10 @@ author_profile: true
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Oral presentations**</span></span>
 
 
-<img src="/images/logo_sfecologie_2022.png"
+<img src="images/logo_pgmo_2022-v3.png"
     width="50"
     hspace="20"
-    align="left"> <span style="color:#3B528B">**Leclerc C.**</span>, Reynaud N., Danis P.-A., ..., Frossard V. & Sentis A. “Temperature, productivity and habitat characteristics collectivelydrive lake food web structure”. *SFE² GfÖ EEF Joint meeting – International Conference on Ecological Sciences*, Metz, France. 21-25 November 2022. [![or5](https://img.shields.io/badge/figshare-Presentation_SFE_2022-21908C.svg)](https://doi.org/10.6084/m9.figshare.21931287.v2){:target="_blank"}  
+    align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Pricing strategy for dual-channel retailing using a stochastic attraction-demand model”. *PGMO Days 2023 - Gaspard Monge program for Optimization, Operations Research and their interactions with Data Science*, Metz, France. 21-25 November 2022.    
 
 <img src="/images/logo_theomodive_2021.png"
     width="50"
