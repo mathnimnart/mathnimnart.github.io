@@ -41,7 +41,10 @@ author_profile: true
     hspace="20"
     align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “A chance-constrained optimisation model for the pricing and ordering omnichannel problem”. *23rd annual congress of the French Society for Operational Research and Decision Support*, Lyon, France. 23-25 February 2022.
 
-
+<img src="/images/IWSPE.jpg"
+    width="50"
+    hspace="20"
+    align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Optimal pricing for a stochastic omnichannel attraction demand model with target cycle service levels”. *22nd International Working Seminar on Production Economics*, Innsbruck, Austria. 21-25 February 2022.
 
 
 
