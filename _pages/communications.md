@@ -17,7 +17,7 @@ author_profile: true
 
 
 <img src="/images/logo_pgmo_2022-v3.png"
-    width="50"
+    width="70"
     hspace="20"
     align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Pricing strategy for dual-channel retailing using a stochastic attraction-demand model”. *PGMO Days 2023 - Gaspard Monge program for Optimization, Operations Research and their interactions with Data Science*, EDF Lab Paris-Saclay, Palaiseau, France. 28-29 November 2023.
 
