@@ -23,17 +23,17 @@ author_profile: true
 
 <img src="/images/VMC2023.JPG"
     width="60"
-    hspace="20"
+    hspace="0"
     align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Pricing strategies for dual channels retailers with stochastic attraction demand model”. *10th Vietnam Mathematical Congress*, Da Nang, Vietnam. 8-12 August 2023.
 
 <img src="/images/logo_roadef.png"
     width="60"
-    hspace="20"
+    hspace="0"
     align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “A data-driven based approach for newsvendor problem subject to inventory inaccuracy”. *24th annual congress of the French Society for Operational Research and Decision Support*, Rennes, France. 20-23 February 2023.
 
 <img src="/images/ISIR.png"
     width="60"
-    hspace="20"
+    hspace="0"
     align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Optimal pricing for multi-channel retailing with stochastic attraction demand model”. *21st International Symposium on Inventories*, Budapest, Hungary. 22-26 August 2022.
 
 
