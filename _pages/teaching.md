@@ -19,7 +19,7 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**ESSCA Business School**</span></span>
 
-* * Quantitative Methods for Finance*:  2023-2024.
+* Quantitative Methods for Finance*:  2023-2024.
 
 
 
