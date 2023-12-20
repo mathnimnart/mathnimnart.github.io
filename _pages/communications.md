@@ -47,8 +47,8 @@ author_profile: true
     align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Optimal pricing for a stochastic omnichannel attraction demand model with target cycle service levels”. *22nd International Working Seminar on Production Economics*, Innsbruck, Austria. 21-25 February 2022.
 
 <img src="/images/APMS2021.jpg"
-    width="50"
-    hspace="20"
+    width="70"
+    hspace="10"
     align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Pricing Decisions for an Omnichannel Retailing Under Service Level Considerations”. *22nd  International Conference on Advances in Production Management Systems*, Nantes, France. 5-9 September 2021.
 
 
