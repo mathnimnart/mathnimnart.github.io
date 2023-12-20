@@ -8,15 +8,19 @@ author_profile: true
 
 ------
 
-#<img src="/images/outreach_band.png"
-    class="center">
 
 ------
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**EMLYON Business School**</span></span>
 
-* Animation of a stand on aquatic food web research in mesocosms for the general public. *Journée Mondiale de l'Eau 2023 - Porte ouverte SCP/INRAE*, Aix-en-Provence, France. March 26, 2023.
+* *Introduction to Business Statistics and Data Analysis*:  2020-2021, 2021-2022, 2022-2023.
 
-* Discussion with high school and college students. *Les rencontres inspirantes du Tutorat de l’École Centrale Marseille - Projet des lycéens et collégiens*, Marseille, France. February 01, 2023.
+* *Operations Management*:  2020-2021, 2021-2022.
+
+## <span style="font-variant:small-caps;"><span style="color:#440154">**ESSCA Business School**</span></span>
+
+* * Quantitative Methods for Finance*:  2023-2024.
+
+
 
 
