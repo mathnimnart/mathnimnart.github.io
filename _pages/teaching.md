@@ -8,7 +8,7 @@ author_profile: true
 
 ------
 
-## <span style="font-variant:small-caps;"><span style="color:#440154">**Paris Dauphine University, Paris Sciences et Lettres University (PSL University), France**</span></span> e
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Paris Dauphine University, Paris Sciences et Lettres (PSL University), France**</span></span>
 
 * *Data Science Project*: (travaux pratiques-lab work) 2023-2024.
 
