@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "OUTREACH ACTIVITIES"
-permalink: /outreachactivities/
+title: "TEACHING"
+permalink: /teaching/
 author_profile: true
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
