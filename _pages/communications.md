@@ -33,7 +33,7 @@ author_profile: true
 
 <img src="/images/ISIR.png"
     width="60"
-    hspace="20"
+    hspace="0"
     align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Optimal pricing for multi-channel retailing with stochastic attraction demand model”. *21st International Symposium on Inventories*, Budapest, Hungary. 22-26 August 2022.
 
 
