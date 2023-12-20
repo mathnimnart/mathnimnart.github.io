@@ -36,7 +36,10 @@ author_profile: true
     hspace="10"
     align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Optimal pricing for multi-channel retailing with stochastic attraction demand model”. *21st International Symposium on Inventories*, Budapest, Hungary. 22-26 August 2022.
 
-
+<img src="/images/logo_roadef.png"
+    width="50"
+    hspace="20"
+    align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “A chance-constrained optimisation model for the pricing and ordering omnichannel problem”. *23rd annual congress of the French Society for Operational Research and Decision Support*, Lyon, France. 23-25 February 2022.
 
 
 
