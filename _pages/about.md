@@ -12,7 +12,7 @@ I am currently a Ph.D. Candidate in *Management Science*, supervised by Professo
 
 During my Ph.D. study, I was also a Research Assistant at the <a href="https://aim.em-lyon.com/quant/" target="_blank" style="color:#3B528B;">QUANT Research Center</a> in <a href="https://em-lyon.com/en" target="_blank" style="color:#3B528B;">EMLYON Business School</a>. <br>
 
-Before this, I got my Master's degrees *Statistical and Financial Engineering, Data Science* and *Mathematics of Insurance, Economics, and Finance* from <a href="https://dauphine.psl.eu/en/" target="_blank" style="color:#3B528B;">Paris Dauphine University - Paris Sciences et Lettres University</a>, and <a href="https://www.ens.psl.eu/en" target="_blank" style="color:#3B528B;">École Normale Supérieure - Paris Sciences et Lettres University</a>. <br>
+Before this, I got two Master's degrees *Statistical and Financial Engineering, Data Science* and *Mathematics of Insurance, Economics, and Finance* from <a href="https://dauphine.psl.eu/en/" target="_blank" style="color:#3B528B;">Paris Dauphine University - Paris Sciences et Lettres University</a>, and <a href="https://www.ens.psl.eu/en" target="_blank" style="color:#3B528B;">École Normale Supérieure - Paris Sciences et Lettres University</a>. <br>
 
 **My research interests revolve around the interdisciplinary integration of Management Science, Operations Research, Statistical Learning, Artificial Intelligence, Stochastic and Quantitative Mathematical Methods, applied to various practical domains.** <br> <br> 
 
