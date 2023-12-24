@@ -17,20 +17,20 @@ I am delighted to share that our paper, titled [*Optimal Pricing for Dual-Channe
 
 ---
 ### November 2023
-I served as the session chair for the *Pricing Strategies* session at <a href="https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/" target="_blank" style="color:#3B528B;">PGMO Days 2023 - Gaspard Monge Program for Optimization, Operations Research, and their interactions with Data Science</a>. During the session, I will deliver a presentation titled *Pricing Strategy for Dual-Channel Retailing Using a Stochastic Attraction-Demand Model*.
+I serve as the session chair for the *Pricing Strategies* session at <a href="https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/" target="_blank" style="color:#3B528B;">PGMO Days 2023 - Gaspard Monge Program for Optimization, Operations Research, and their interactions with Data Science</a>. During the session, I deliver a presentation titled *Pricing Strategy for Dual-Channel Retailing Using a Stochastic Attraction-Demand Model*.
 
 ---
 ### August 2023
-I participated in the <a href="https://viasm.edu.vn/hdkh/dhthtq2023" target="_blank" style="color:#3B528B;">10th Vietnam Mathematical Congress</a>, where I will deliver a talk titled *Pricing Strategies for Dual-Channel Retailers with a Stochastic Attraction Demand Model*.
+I participate in the <a href="https://viasm.edu.vn/hdkh/dhthtq2023" target="_blank" style="color:#3B528B;">10th Vietnam Mathematical Congress</a>, where I deliver a talk titled *Pricing Strategies for Dual-Channel Retailers with a Stochastic Attraction Demand Model*.
 
 ---
 ### February 2023
-I participated in the <a href="https://roadef2023.sciencesconf.org/" target="_blank" style="color:#3B528B;">24th Annual Congress of the French Operations Research & Decision Support Society</a>, where I will deliver a talk titled *A Data-Driven Approach for the Newsvendor Problem Subject to Inventory Inaccuracy*.
+I participate in the <a href="https://roadef2023.sciencesconf.org/" target="_blank" style="color:#3B528B;">24th Annual Congress of the French Operations Research & Decision Support Society</a>, where I deliver a talk titled *A Data-Driven Approach for the Newsvendor Problem Subject to Inventory Inaccuracy*.
 
 ---
 ### August 2022
-I presented a talk on *Optimal Pricing for Multi-Channel Retailing with a Stochastic Attraction Demand Model* at the <a href="https://2022.isirsymposium.hu/" target="_blank" style="color:#3B528B;">21st International Symposium on Inventories</a>.
+I present a talk on *Optimal Pricing for Multi-Channel Retailing with a Stochastic Attraction Demand Model* at the <a href="https://2022.isirsymposium.hu/" target="_blank" style="color:#3B528B;">21st International Symposium on Inventories</a>.
 
 ---
 ### July 2022
-I started my summer school in <a href="https://bernoulli.epfl.ch/" target="_blank" style="color:#3B528B;">Bernoulli Center, Swiss Federal Institute of Technology Lausanne</a>. This event is to discuss modern trends and exciting recent results in <a href="https://combo2022.epfl.ch/bernoulli-center-summer-school-on-modern-trends-in-combinatorial-optimization/" target="_blank" style="color:#3B528B;">Combinatorial Optimizations</a>.
+I start my summer school in <a href="https://bernoulli.epfl.ch/" target="_blank" style="color:#3B528B;">Bernoulli Center, Swiss Federal Institute of Technology Lausanne</a>. This event is to discuss modern trends and exciting recent results in <a href="https://combo2022.epfl.ch/bernoulli-center-summer-school-on-modern-trends-in-combinatorial-optimization/" target="_blank" style="color:#3B528B;">Combinatorial Optimizations</a>.
