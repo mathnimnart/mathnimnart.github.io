@@ -23,5 +23,5 @@ For more information about my research experience, please see my <a href="https:
 Feel free to contact me for any inquiries or potential collaborations in any research topic.
 You can reach me at <a href="mailto:minh-tam.tran@insa-lyon.fr" target="_blank" style="color:#3B528B;">minh-tam.tran[at]insa-lyon.fr</a>.  <br> <br>  
   
-*Key words:*<br>
+*Keywords:*<br>
 Operations Research; Management Science; Logistics and Supply Chain Management; Inventory Management; Artificial Intelligence; Quantitative Methods; Data Science <br>
