@@ -21,7 +21,7 @@ Before this, I got two Master's degrees *Statistical and Financial Engineering, 
 For more information about my research experience, please see my <a href="https://mathnimnart.github.io/cv/" target="_blank" style="color:#3B528B;">curriculum vitæ</a>. <br>
 
 Feel free to contact me for any inquiries or potential collaborations in any research topic.
-You can reach me at <a href="mailto:minh-tam.tran@insa-lyon.fr" target="_blank" style="color:#3B528B;">minh-tam.tran[at]insa-lyon.fr</a>.  <br> <br>  
+You can reach me at <a href="mailto:minh-tam.tran@centralesupelec.fr" target="_blank" style="color:#3B528B;">minh-tam.tran[at]centralesupelec.fr</a>.  <br> <br>  
   
 *Keywords:*<br>
 Operations Research; Management Science; Logistics and Supply Chain Management; Inventory Management; Artificial Intelligence; Quantitative Methods; Data Science <br>
