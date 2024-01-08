@@ -16,7 +16,7 @@ During my Ph.D. study, I was also a Research Assistant at the <a href="https://a
 
 Before this, I got two Master's degrees *Statistical and Financial Engineering, Data Science* and *Mathematics of Insurance, Economics, and Finance* from <a href="https://dauphine.psl.eu/en/" target="_blank" style="color:#3B528B;">Paris Dauphine University - Paris Sciences et Lettres University</a>, and <a href="https://www.ens.psl.eu/en" target="_blank" style="color:#3B528B;">École Normale Supérieure - Paris Sciences et Lettres University</a>. <br>
 
-**My research interests revolve around the interdisciplinary integration of Management Science, Operations Research, Statistical Learning, Artificial Intelligence, Stochastic and Quantitative Mathematical Methods, applied to various practical domains.** <br> <br> 
+**My research interests revolve around the interdisciplinary integration of Management Science, Operations Research, Statistical Learning, Artificial Intelligence, and Stochastic & Quantitative Mathematical Methods applied to various practical domains.** <br> <br> 
 
 For more information about my research experience, please see my <a href="https://mathnimnart.github.io/cv/" target="_blank" style="color:#3B528B;">curriculum vitæ</a>. <br>
 
