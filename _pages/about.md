@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the <a href="https://neoma-bs.com/departements/information-systems-supply-chain-decision-making/" target="_blank" style="color:#3B528B;">Information Systems, Supply Chain Management, and Decision Support Department</a> of NEOMA Business School.
+I am an Assistant Professor at the <a href="https://neoma-bs.com/departements/information-systems-supply-chain-decision-making/" target="_blank" style="color:#3B528B;">Information Systems, Supply Chain Management, and Decision Support Department</a> of <a href="https://neoma-bs.com/about-neoma/about-neoma-business-school/" target="_blank" style="color:#3B528B;">NEOMA Business School</a>. 
 
 Before joining NEOMA Business School, I was a Postdoctoral Researcher at <a href="https://www.centralesupelec.fr/en" target="_blank" style="color:#3B528B;">Centrale Supélec - Université Paris-Saclay</a>, in collaboration with Professor <a href="https://www.jakobpuchinger.com/" target="_blank" style="color:#3B528B;">Jakob Puchinger</a> and Professor <a href="https://cv.hal.science/adam-abdin" target="_blank" style="color:#3B528B;">Adam Abdin</a>, focusing on developing novel algorithms for designing, planning, and operating on-demand transport systems in an intermodal context.
 
