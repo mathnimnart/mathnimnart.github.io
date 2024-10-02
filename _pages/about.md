@@ -26,4 +26,4 @@ Feel free to contact me with any inquiries or potential collaborations on any re
 You can reach me at <a href="mailto:minh-tam.tran@neoma-bs.fr" target="_blank" style="color:#3B528B;">minh-tam.tran[at]neoma-bs.fr</a>.  <br> <br>  
   
 *Keywords:*<br>
-Operations Research; Management Science; Logistics and Supply Chain Management; Inventory Management; Artificial Intelligence; Quantitative Methods; Data Science <br>
+Operations Research, Management Science, Logistics and Supply Chain Management, Inventory Management, Artificial Intelligence, Quantitative Methods, Data Science <br>
