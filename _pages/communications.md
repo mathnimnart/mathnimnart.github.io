@@ -15,6 +15,11 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Oral presentations**</span></span>
 
+<img src="/images/ISIR.png"
+    width="80"
+    hspace="5"
+    align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Data-driven nonlinear optimization for chance-constrained newsvendor problem”. *22nd International Symposium on Inventories*, Budapest, Hungary. 19-23 August 2024.
+
 
 <img src="/images/logo_pgmo_2022-v3.png"
     width="50"
