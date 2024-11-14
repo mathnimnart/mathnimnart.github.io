@@ -54,12 +54,12 @@ author_profile: true
 <img src="/images/APMS2021.jpg"
     width="70"
     hspace="10"
-    align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Pricing Decisions for an Omnichannel Retailing Under Service Level Considerations”. *22nd  International Conference on Advances in Production Management Systems*, Nantes, France. 5-9 September 2021.
+    align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Pricing decisions for an omnichannel retailing under service level considerations”. *22nd  International Conference on Advances in Production Management Systems*, Nantes, France. 5-9 September 2021.
 
 <img src="/images/ISIR.png"
     width="80"
     hspace="5"
-    align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Integrated Inventory and Pricing Decisions for an Omnichannel Retailing model under Cycle Service Level”. *15th International Society for Inventory Research Summer Schools - Data-Driven Inventory Management and Modelling*, Luxembourg. 23-27 August 2021.
+    align="left"> <span style="color:#3B528B">**Tran, M. T.**</span>, Rekik, Y., & Hadj-Hamou, K. “Integrated inventory and pricing decisions for an omnichannel retailing model under cycle service level”. *15th International Society for Inventory Research Summer Schools - Data-Driven Inventory Management and Modelling*, Luxembourg. 23-27 August 2021.
 
 
 
